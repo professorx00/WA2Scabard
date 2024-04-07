@@ -1,0 +1,11 @@
+{
+  "name": "wa2scabard",
+  "version": "1.0.0",
+  "description": "Allows User to run script on a folder and upload WA export to Scabard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ward",
+  "license": "MIT"
+}
