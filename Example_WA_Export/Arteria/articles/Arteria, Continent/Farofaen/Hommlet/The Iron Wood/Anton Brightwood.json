@@ -1,0 +1,258 @@
+{
+    "id": "e50fca73-7729-48e3-8d81-fa5a686e980c",
+    "title": "Anton Brightwood",
+    "slug": "anton-brightwood-person",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Person",
+    "icon": "fa-solid fa-user-crown",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/anton-brightwood-person",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2022-01-04 23:50:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "person",
+    "wordcount": 130,
+    "creationDate": {
+        "date": "2022-01-04 23:40:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2023-03-15 16:24:36.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 10,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "81ce67c2-ffca-4059-8eef-ce75414e1f28",
+        "title": "The Iron Wood",
+        "slug": "the-iron-wood-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/the-iron-wood-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "44 year old male human soldier.\r\nHe has a bald head and blue eyes.\r\n\r\nHe has smooth black skin.\r\n\r\nHe stands 165cm (5'4\") tall and has a regular build.\r\n\r\nHe has an oblong, incredibly bland face.\r\n\r\nHe has an elaborate abstract tattoo on his right hand.\r\n[br]\r\nHe has very long fingers.\r\n\r\nPersonality Traits\r\nHe quietly worships Chauntea, Goddess of agriculture, farmers, gardeners and summer. (Neutral Good)\r\nHe is very empathic towards others.\r\nHe is very talkative.\r\nHe shares everything he owns.\r\n\r\nHe loves discovering new mysteries and solving them.\r\nAbility Scores\r\nStrength 15 [+2]\r\nDexterity 10 [0]\r\nConstitution 15 [+2]\r\nIntellect 11 [0]\r\nWisdom 12 [+1]\r\nCharisma 9 [-1]\r\nRelationships\r\n\r\nSexual Orientation\r\n\r\nStraight\r\n\r\nRelationship Status\r\nWidowed/Divorced\r\n\r\nAlignment Tendencies\r\nGood 5 Lawful 2\r\nNeutral 4 Neutral 2\r\nEvil 3 Chaotic 3\r\n\r\nPlot Hook\r\nHe has recently obtained a map to an old and forgotten civilization.",
+    "contentParsed": "44 year old male human soldier.\nHe has a bald head and blue eyes.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nHe has smooth black skin.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nHe stands 165cm (5&#039;4&quot;) tall and has a regular build.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nHe has an oblong, incredibly bland face.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nHe has an elaborate abstract tattoo on his right hand.\n<br>\nHe has very long fingers.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nPersonality Traits\nHe quietly worships Chauntea, Goddess of agriculture, farmers, gardeners and summer. (Neutral Good)\nHe is very empathic towards others.\nHe is very talkative.\nHe shares everything he owns.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nHe loves discovering new mysteries and solving them.\nAbility Scores\nStrength 15 [+2]\nDexterity 10 [0]\nConstitution 15 [+2]\nIntellect 11 [0]\nWisdom 12 [+1]\nCharisma 9 [-1]\nRelationships\n<span class=\"line-spacer d-block\">&nbsp;</span>\nSexual Orientation\n<span class=\"line-spacer d-block\">&nbsp;</span>\nStraight\n<span class=\"line-spacer d-block\">&nbsp;</span>\nRelationship Status\nWidowed/Divorced\n<span class=\"line-spacer d-block\">&nbsp;</span>\nAlignment Tendencies\nGood 5 Lawful 2\nNeutral 4 Neutral 2\nEvil 3 Chaotic 3\n<span class=\"line-spacer d-block\">&nbsp;</span>\nPlot Hook\nHe has recently obtained a map to an old and forgotten civilization.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "families": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "firstHeldRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "heldItems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "createditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ruledLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "religions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "currentRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "pastRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentsauthored": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentssigned": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicalEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "proses": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedReports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "id": "d769b7a7-e8a3-41df-ba8b-4712d548f497",
+    "title": "God's Tears",
+    "slug": "god-s-tears-item",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Item",
+    "icon": "<i class=\"ra ra-diamond\"></i>",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/god-s-tears-item",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2023-05-03 15:59:27.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "item",
+    "wordcount": 53,
+    "creationDate": {
+        "date": "2021-02-10 23:19:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2021-02-10 23:19:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 66,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "cc7814eb-7a9c-489c-b197-a26a45e6bc97",
+        "title": "God's Tears",
+        "slug": "god27s-tears-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/god27s-tears-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "AKA Stars of Mystra\r\n\r\nGems of an infinite swirling blue. Like the depths of the ocean, a lovers eye, a distant nebula. Found deep within the earth, often near mithril deposits, great power resides within them, enough to be useful on their own, or to power great magical objects.\r\n[br][img:4314598]",
+    "contentParsed": "AKA Stars of Mystra\n<span class=\"line-spacer d-block\">&nbsp;</span>\nGems of an infinite swirling blue. Like the depths of the ocean, a lovers eye, a distant nebula. Found deep within the earth, often near mithril deposits, great power resides within them, enough to be useful on their own, or to power great magical objects.\n<br><div id=\"e1a2b967da0ae0bc052830ab6b0eaea7\" class=\"visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 \"><a class=\"\" alt=\"\" title=\"Gods Tears 1.1.jpg\" href=\"/i/4314598\"><img src=\"/uploads/images/26667b4eaa5edb01a954a5073c0c2385.jpg\" class=\"img-responsive img-fluid image-4314598 \" alt=\"\" title=\"Gods Tears 1.1.jpg\" /></a></div>",
+    "sections": {
+        "icon": {
+            "title": "",
+            "position": "",
+            "content": "<i class=\"ra ra-diamond\"></i>",
+            "contentParsed": "&lt;i class=&quot;ra ra-diamond&quot;&gt;&lt;/i&gt;"
+        },
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "type": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "20e85f5e-4335-4b57-980e-f6fd91f7a669",
+                "title": "Magical",
+                "type": "itemtype",
+                "relationshipType": "",
+                "state": "null"
+            }
+        },
+        "technologies": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

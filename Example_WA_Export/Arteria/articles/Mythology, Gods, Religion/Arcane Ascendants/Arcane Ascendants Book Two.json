@@ -1,0 +1,154 @@
+{
+    "id": "def0ce88-ae6d-4955-8255-d2fda8cc5156",
+    "title": "Arcane Ascendants *Book Two*",
+    "slug": "arcane-ascendants-2Abook-two2A-document",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Document",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/arcane-ascendants-2Abook-two2A-document",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-06-09 03:13:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "document",
+    "wordcount": 246,
+    "creationDate": {
+        "date": "2021-02-11 00:57:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2021-02-27 03:29:13.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 127,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "7ad17822-e4aa-4cb3-9cee-98de89a5f7a1",
+        "title": "Arcane Ascendants",
+        "slug": "arcane-ascendants-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcane-ascendants-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "[h2]Water and mud has damaged this book thoroughly, pages torn and many pages stick together smearing ink to make it unintelligible..[/h2]\r\n\r\n...With the finding of the Stars of Mystra, the arcane ambitions of the races of Arteria grew to a fever pitch. Surely, the stars are a sign, a gift from the goddess of magic herself...\r\nFueled by this discovery, Trig Urvor, a gnome mage began proselytizing for the goddess Mystra. Singing her praises to whoever would listen, Trig soon began to acquire a troop of equally devout mages about her. Fyril Cygis first and brightest among them [i](human mage)[/i], Sybell Kincaid [i](human Sorcerer)[/i], Mathias Oxborn [i](halfling artificer)[/i], Krynt Webb [i](human sorcerer)[/i], Juliana Ravenmar [i](half-elf mage)[/i], Garmul Paradur [i](dwarf mage)[/i], Scarlet Stavenger [i](human warlock)[/i], Roondar Fasketel [i](human mage)[/i], Rindel Oakenheart [i](elf warlock)[/i]. They became known by several names, Mystery Mages, the Spellsmiths, and the Spellweavers, but the name that has best withstood the test of time is The Arcane Ascendants (often shortened to either the Arcanists or the Ascendants). And as the influence of the Arcane Ascendants grew, so did Mystra's as well...\r\n...Wherever Trig and her troupe went, new enclaves took hold, soon their reputation began to precede them, and they would be heartily welcomed into cities and hamlets where they had never been, by young and old alike...",
+    "contentParsed": "<h3>Water and mud has damaged this book thoroughly, pages torn and many pages stick together smearing ink to make it unintelligible..</h3>\n<span class=\"line-spacer d-block\">&nbsp;</span>\n...With the finding of the Stars of Mystra, the arcane ambitions of the races of Arteria grew to a fever pitch. Surely, the stars are a sign, a gift from the goddess of magic herself...\nFueled by this discovery, Trig Urvor, a gnome mage began proselytizing for the goddess Mystra. Singing her praises to whoever would listen, Trig soon began to acquire a troop of equally devout mages about her. Fyril Cygis first and brightest among them <em>(human mage)</em>, Sybell Kincaid <em>(human Sorcerer)</em>, Mathias Oxborn <em>(halfling artificer)</em>, Krynt Webb <em>(human sorcerer)</em>, Juliana Ravenmar <em>(half-elf mage)</em>, Garmul Paradur <em>(dwarf mage)</em>, Scarlet Stavenger <em>(human warlock)</em>, Roondar Fasketel <em>(human mage)</em>, Rindel Oakenheart <em>(elf warlock)</em>. They became known by several names, Mystery Mages, the Spellsmiths, and the Spellweavers, but the name that has best withstood the test of time is The Arcane Ascendants (often shortened to either the Arcanists or the Ascendants). And as the influence of the Arcane Ascendants grew, so did Mystra&#039;s as well...\n...Wherever Trig and her troupe went, new enclaves took hold, soon their reputation began to precede them, and they would be heartily welcomed into cities and hamlets where they had never been, by young and old alike...",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "type": {
+            "title": "",
+            "position": "",
+            "content": "Manuscript, Historical",
+            "contentParsed": "Manuscript, Historical"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentauthors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatorycharacters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatoryorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "id": "b19f77a8-6acf-4023-a7b2-978a6a11c150",
+    "title": "Searsap Forest",
+    "slug": "searsap-forest-article",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Location",
+    "icon": "fa-solid fa-mountain",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/searsap-forest-article",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-02-07 15:52:02.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 980,
+    "excerpt": "A naturally dark and tight northern forest, with a mix of coniferous and broadleaf trees.",
+    "template": "location",
+    "wordcount": 37,
+    "creationDate": {
+        "date": "2019-09-08 17:51:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-10-25 17:38:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 25,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "26d53f1f-8227-4985-9954-1da0d9d9c5de",
+        "title": "Searsap Forest",
+        "slug": "searsap-forest-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/searsap-forest-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1951358,
+        "title": "searsap",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/3c2b194437a0262300ec1a49a4eb073d.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 02:59:28.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "A dark forest of low value timber. Difficult to work with, irritating sap, not great to burn. Black roses grow beneath the canopy.",
+    "contentParsed": "A dark forest of low value timber. Difficult to work with, irritating sap, not great to burn. Black roses grow beneath the canopy.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "geography": {
+            "title": "",
+            "position": "",
+            "content": "Western side of Farofaen.",
+            "contentParsed": "Western side of Farofaen."
+        },
+        "florafauna": {
+            "title": "",
+            "position": "",
+            "content": "Searsap trees, firs, spruces, birches, generally coniferous.",
+            "contentParsed": "Searsap trees, firs, spruces, birches, generally coniferous."
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "5a57100e-9113-44b2-8400-b1f9f99969fc",
+                    "title": "Charles Vane",
+                    "slug": "charles-vane-article",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/charles-vane-article",
+                    "relationshipType": "article",
+                    "type": "person"
+                }
+            ]
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "cover": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": 1951358,
+                "title": "searsap",
+                "type": "image",
+                "relationshipType": "",
+                "state": "public"
+            }
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "5a57100e-9113-44b2-8400-b1f9f99969fc",
+                    "title": "Charles Vane",
+                    "slug": "charles-vane-article",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/charles-vane-article",
+                    "relationshipType": "article",
+                    "type": "person"
+                }
+            ]
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "ffc4989f-7b4a-49fa-9ecd-6e0546df5e3e",
+                    "title": "Blackthorn",
+                    "slug": "blackthorn-article",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/blackthorn-article",
+                    "relationshipType": "article",
+                    "type": "location"
+                }
+            ]
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "type": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "568d6a7b-cd93-4775-a9cb-b6a469038792",
+                "title": "Forest, Boreal (Coniferous)",
+                "type": "locationtype",
+                "relationshipType": "",
+                "state": "null"
+            }
+        },
+        "organization": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "ffd0876f-7a71-4272-b883-fd87a65fad4d",
+                "title": "Forestry Guild",
+                "type": "organization",
+                "relationshipType": "article",
+                "state": "public"
+            }
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "cc01cb79-4300-46ae-a565-c7a1c0d23482",
+                    "title": "Venomcry",
+                    "slug": "venomcry-article",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/venomcry-article",
+                    "relationshipType": "article",
+                    "type": "organization"
+                }
+            ]
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

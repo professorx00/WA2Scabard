@@ -1,0 +1,144 @@
+{
+    "id": "40541676-8874-44d5-be42-f4d58c7f1a6d",
+    "title": "Arcane Ascendants *Book One*",
+    "slug": "arcane-ascendants-2Abook-one2A-document",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Document",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/arcane-ascendants-2Abook-one2A-document",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-06-09 03:18:18.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "document",
+    "wordcount": 238,
+    "creationDate": {
+        "date": "2021-06-09 03:18:18.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "7ad17822-e4aa-4cb3-9cee-98de89a5f7a1",
+        "title": "Arcane Ascendants",
+        "slug": "arcane-ascendants-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcane-ascendants-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "The books pages are dusty, and worn through time and many readings, but some excerpts are still readable...\n\n...Long, long ago elves ruled the world of Arteria. With a strong arm, and with even more powerful druidic magic, the natural balance was upheld. Much time passed in this way.\nUntil, Humans, a young and ambitious race came into its own. The other races, gnomes, dwarves, halflings, more curious and more ambitious than the elves, shared with the Humans their knowledge of the arcane arts.. But the elves, who viewed the other races as their wards, feared what would happen if the races of Arteria became too entangled in the magical weave that runs through the world...\n...Over many generations as the Humans studied ancient texts, and deepened their connection with Mystra, their arcane knowledge grew, their connection with the weave flourished and it began to push up against the limits that the elves imposed on such endeavors. At the same time, the humans began to question the leadership of the elves. Why restrict arcane experimentation? Why restrict arcane research and knowledge?...\nWith these questions the Humans fueled the skepticism of the other races, who had tasted the utility, beauty and power of arcane magic...\nUntil one day, the great goddess Mystra, sensing the readiness, the worthiness, of the peoples of Arteria; granted the world the gift of the Stars of Mystra, the God's Tears......",
+    "contentParsed": "The books pages are dusty, and worn through time and many readings, but some excerpts are still readable...\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\n...Long, long ago elves ruled the world of Arteria. With a strong arm, and with even more powerful druidic magic, the natural balance was upheld. Much time passed in this way.\nUntil, Humans, a young and ambitious race came into its own. The other races, gnomes, dwarves, halflings, more curious and more ambitious than the elves, shared with the Humans their knowledge of the arcane arts.. But the elves, who viewed the other races as their wards, feared what would happen if the races of Arteria became too entangled in the magical weave that runs through the world...\n...Over many generations as the Humans studied ancient texts, and deepened their connection with Mystra, their arcane knowledge grew, their connection with the weave flourished and it began to push up against the limits that the elves imposed on such endeavors. At the same time, the humans began to question the leadership of the elves. Why restrict arcane experimentation? Why restrict arcane research and knowledge?...\nWith these questions the Humans fueled the skepticism of the other races, who had tasted the utility, beauty and power of arcane magic...\nUntil one day, the great goddess Mystra, sensing the readiness, the worthiness, of the peoples of Arteria; granted the world the gift of the Stars of Mystra, the God&#039;s Tears......",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentauthors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatorycharacters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatoryorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

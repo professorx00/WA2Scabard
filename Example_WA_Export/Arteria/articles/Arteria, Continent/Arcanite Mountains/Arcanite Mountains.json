@@ -1,0 +1,317 @@
+{
+    "id": "ce79436b-8adb-4d3f-8050-e35cc6c55348",
+    "title": "Arcanite Mountains",
+    "slug": "arcanite-mountains-location",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Location",
+    "icon": "fa-solid fa-mountain",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/arcanite-mountains-location",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-07 00:48:55.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 1000,
+    "excerpt": null,
+    "template": "location",
+    "wordcount": 51,
+    "creationDate": {
+        "date": "2021-02-06 18:54:35.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2021-02-07 00:47:41.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 31,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "a46c1723-0a1f-408f-a799-f328c6904023",
+        "title": "Arcanite Mountains",
+        "slug": "arcanite-mountains-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcanite-mountains-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1951301,
+        "title": "arcanite",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/05f196133925991515e1ccec4b6ac8e3.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2021-02-07 00:46:44.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Tall, alpine mountains, relatively new in the geologic time scale. Mountains are often steep, and covered with scree or talus slopes. The first God's Tears were found here, that created a rush on mining, and fueled the further colonization of Arteria and by proxy, fighting between Elves and Humans.",
+    "contentParsed": "Tall, alpine mountains, relatively new in the geologic time scale. Mountains are often steep, and covered with scree or talus slopes. The first God&#039;s Tears were found here, that created a rush on mining, and fueled the further colonization of Arteria and by proxy, fighting between Elves and Humans.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "d5c92b89-67ef-45d1-aed1-262adaa8dff1",
+                    "title": "Cloud's Rest",
+                    "slug": "cloud-s-rest--location",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/cloud-s-rest--location",
+                    "relationshipType": "article",
+                    "type": "location"
+                }
+            ]
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "cover": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": 1951301,
+                "title": "arcanite",
+                "type": "image",
+                "relationshipType": "",
+                "state": "public"
+            }
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "fdf02fc0-1f74-4544-a2ab-1b8a220df09d",
+                    "title": "Arcanite Mountains",
+                    "slug": "",
+                    "url": "",
+                    "relationshipType": "",
+                    "type": "map"
+                }
+            ]
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "type": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "e1260468-4d94-4d0e-b3fb-dc90ed4c4821",
+                "title": "Mountain Range",
+                "type": "locationtype",
+                "relationshipType": "",
+                "state": "null"
+            }
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

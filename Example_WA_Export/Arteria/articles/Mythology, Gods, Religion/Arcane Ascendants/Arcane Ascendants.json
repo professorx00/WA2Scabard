@@ -1,0 +1,179 @@
+{
+    "id": "575ba464-b079-443f-9a70-e291853b9f71",
+    "title": "Arcane Ascendants",
+    "slug": "arcane-ascendants-myth",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Myth",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/arcane-ascendants-myth",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2023-05-03 18:36:24.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 1000,
+    "excerpt": null,
+    "template": "myth",
+    "wordcount": 961,
+    "creationDate": {
+        "date": "2020-11-07 07:03:55.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-14 06:06:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 35,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "7ad17822-e4aa-4cb3-9cee-98de89a5f7a1",
+        "title": "Arcane Ascendants",
+        "slug": "arcane-ascendants-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcane-ascendants-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Long, long ago, a group of Arcane Magic wielders, that brought together all the races of Arteria, to rise up and overthrow the oppressive Elven empire. AKA Mystery Mages, the Spellsmiths, the Arcanists, or the Spellweavers.\r\n[br]\r\n[br]\r\n[br]Trig Urvor had a transcendent event, became a prophet for Mystra and went around proselytizing, spreading Her good word. Urvor believed in arcane freedom, the right of every being to grow to their full arcane potential, to experiment with, and experience the glory of the arcane. Eventually Urvor settled in the area of the Great Rift, in the city that preempted Wreecaster. She started a small school and she attracted beings who were naturally gifted in the arcane, others who thirsted for knowledge, yearned for freedom, and as her following grew even more, she attracted people who, even though they had no arcane potential themselves still wished to come out from under the heel of the Druids, and to see arcane magic flourish. After seeing all the brilliant minds that came to her school, and the success the small school achieved; Urvor founded the Spellweavers an organization she hoped would form a solid core to fight for the rights of all Arcanists, form more schools, and spread the word of Mystra throughout all of Ethillann. \r\n[br]The Spellweavers were a group of gifted Arcanists, who even if they were not all devoted followers of Mystra, they were devoted to study, arcane magic, and freedom. And Urvor believed that these ideals would shine through, and that devotion to her god would quickly follow. At their height there were 10 Spellweavers; Trig Urvor along with Fyril Cygis and Scarlett Stavenger formed the leadership. Rindel Oakenheart eventually became the head of the Paladins of Mystra. Krynt Webb, Garmul Paradur, Juliana Ravenmar, Mathias Oxborn, and Roondar Fasketel formed the remainder, teaching, proselytizing, founding schools. Though some were more famous than others, each was famous in their own right, each was known for their own particular relic, and while a couple overlapped, each also specialized in a different school of magic.\r\n[br] The Spellweavers started by forming enclaves in most major cities, then even smaller settlements, mostly attracting humans and other races, but occasionally some small groups of elves. While this was happening, the druid enclaves that lead the various bioregions within Ethillan had been uncomfortable with, yet tolerant of the spellweavers, they attempted to speak with Urvor, Cygis and Stavenger, trying to convince them to rein in their activities. When that didn't work they sometimes came to their schools, attended demonstrations, spoke with their adherents, all the while warning against tampering with the fabric of the cosmos. \r\n[br]Around this time Urvor acquired the first of the God's Tears, the spellweavers found or were gifted more, and they started planning large public rituals, fueled by the God's Tears. Such events displayed arcane powers far beyond the spells previously known, this scared the druids and tensions flared. Accusations of dark magic and damage to the natural world were first used to break up rituals. And then ban them. Curfews were put in place. Blue robes were banned and confiscated. But it was not until the elves started coming for the God's Tears that fighting broke out.\r\n[br]\r\nTrig, Mathias, Juliana in particular were for peaceful demonstrations (Prestidigitation vigils were a favorite). Mathias even gave up his god's tear when the elves asked.\r\nThe first real fight came when the Druids attempted to confiscate God's Tears From Fasketel, Oakenheart and Stavenger. The three escaped but lost two of their stones. The fight spurred the creation of the Paladins of Mystra with Rindel Oakenheart at the head, these Paladins were to provide security for the Spellweavers and followers at all times. The next confrontation was a ritual gathering that the elves attempted to stop, that went from ritual to riot to full street battle. This is also the first event that started to split the ascendants.\r\n[br]\r\nAfter the battle over the ritual the elves cracked down on the Spellweavers and their schools, arresting students, and jailing one of the ascendants. The rest tried to free them, where one perished. The paladins were quickly sent on the offensive however. They started a war that snowballed quickly, forming camps, then taking towns. They formed temples and started the formal worship of Mystra, who had been a fairly unknown deity until that point. \r\n[br]Eventually Ravenmar took Urvor's place in the triumverate (with Stavenger and Cygis).",
+    "contentParsed": "Long, long ago, a group of Arcane Magic wielders, that brought together all the races of Arteria, to rise up and overthrow the oppressive Elven empire. AKA Mystery Mages, the Spellsmiths, the Arcanists, or the Spellweavers.\n<br>\n<br>\n<br>Trig Urvor had a transcendent event, became a prophet for Mystra and went around proselytizing, spreading Her good word. Urvor believed in arcane freedom, the right of every being to grow to their full arcane potential, to experiment with, and experience the glory of the arcane. Eventually Urvor settled in the area of the Great Rift, in the city that preempted Wreecaster. She started a small school and she attracted beings who were naturally gifted in the arcane, others who thirsted for knowledge, yearned for freedom, and as her following grew even more, she attracted people who, even though they had no arcane potential themselves still wished to come out from under the heel of the Druids, and to see arcane magic flourish. After seeing all the brilliant minds that came to her school, and the success the small school achieved; Urvor founded the Spellweavers an organization she hoped would form a solid core to fight for the rights of all Arcanists, form more schools, and spread the word of Mystra throughout all of Ethillann. \n<br>The Spellweavers were a group of gifted Arcanists, who even if they were not all devoted followers of Mystra, they were devoted to study, arcane magic, and freedom. And Urvor believed that these ideals would shine through, and that devotion to her god would quickly follow. At their height there were 10 Spellweavers; Trig Urvor along with Fyril Cygis and Scarlett Stavenger formed the leadership. Rindel Oakenheart eventually became the head of the Paladins of Mystra. Krynt Webb, Garmul Paradur, Juliana Ravenmar, Mathias Oxborn, and Roondar Fasketel formed the remainder, teaching, proselytizing, founding schools. Though some were more famous than others, each was famous in their own right, each was known for their own particular relic, and while a couple overlapped, each also specialized in a different school of magic.\n<br> The Spellweavers started by forming enclaves in most major cities, then even smaller settlements, mostly attracting humans and other races, but occasionally some small groups of elves. While this was happening, the druid enclaves that lead the various bioregions within Ethillan had been uncomfortable with, yet tolerant of the spellweavers, they attempted to speak with Urvor, Cygis and Stavenger, trying to convince them to rein in their activities. When that didn&#039;t work they sometimes came to their schools, attended demonstrations, spoke with their adherents, all the while warning against tampering with the fabric of the cosmos. \n<br>Around this time Urvor acquired the first of the God&#039;s Tears, the spellweavers found or were gifted more, and they started planning large public rituals, fueled by the God&#039;s Tears. Such events displayed arcane powers far beyond the spells previously known, this scared the druids and tensions flared. Accusations of dark magic and damage to the natural world were first used to break up rituals. And then ban them. Curfews were put in place. Blue robes were banned and confiscated. But it was not until the elves started coming for the God&#039;s Tears that fighting broke out.\n<br>\nTrig, Mathias, Juliana in particular were for peaceful demonstrations (Prestidigitation vigils were a favorite). Mathias even gave up his god&#039;s tear when the elves asked.\nThe first real fight came when the Druids attempted to confiscate God&#039;s Tears From Fasketel, Oakenheart and Stavenger. The three escaped but lost two of their stones. The fight spurred the creation of the Paladins of Mystra with Rindel Oakenheart at the head, these Paladins were to provide security for the Spellweavers and followers at all times. The next confrontation was a ritual gathering that the elves attempted to stop, that went from ritual to riot to full street battle. This is also the first event that started to split the ascendants.\n<br>\nAfter the battle over the ritual the elves cracked down on the Spellweavers and their schools, arresting students, and jailing one of the ascendants. The rest tried to free them, where one perished. The paladins were quickly sent on the offensive however. They started a war that snowballed quickly, forming camps, then taking towns. They formed temples and started the formal worship of Mystra, who had been a fairly unknown deity until that point. \n<br>Eventually Ravenmar took Urvor&#039;s place in the triumverate (with Stavenger and Cygis).",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "summary": {
+            "title": "",
+            "position": "",
+            "content": "A group of 10 individuals, 6 of whom truly intended to create a 'more just' world, where anyone could practice any kind of magic they wished. And where Elves were neither more gifted nor more important than anyone else.\r\n[br]Led by Trig Urvor, the war went well for the masses, and peace was approaching(?) the elves had agreed to split their lands and let the masses go. But that was not enough for a few of the Ascendants. Fyril Cigis, a noble, mage, one that the more stout and true intentioned mages would trust was seduced by the Warlock, Scarlett Stavenger. The pact was broken. Who broke it? Why? No one now seems to know, but the war took an ugly turn. It was at this point that Rindel Oakenheart was truly unleashed. Despite his Elven ancestry, he was one of the most fervent of the Ascendants. Commanding death squads of Paladins of Mystra (including Haruman, who after this time ascended as a Narzugon), and her Arcane Clerics. \r\n[br]Trig Urvor (gnome, mage) the original leader and true idealist.\r\nGarmul Paradur (dwarf, mage)\r\nSybell Kincaid (Human, sorcerer)\r\nMathias Oxborn (Halfling, Artificer)\r\nJuliana Ravenmar (Half-Elf Mage)\r\n\r\nFyril Cigis (Human Mage)\r\nScarlett Stavenger (Human Warlock)\r\nRindel Oakenheart (Elf Warlock)\r\nKrynt Webb (Human Sorcerer)\r\nRoondar Fasketel (Human Mage)",
+            "contentParsed": "A group of 10 individuals, 6 of whom truly intended to create a &#039;more just&#039; world, where anyone could practice any kind of magic they wished. And where Elves were neither more gifted nor more important than anyone else.\n<br>Led by Trig Urvor, the war went well for the masses, and peace was approaching(?) the elves had agreed to split their lands and let the masses go. But that was not enough for a few of the Ascendants. Fyril Cigis, a noble, mage, one that the more stout and true intentioned mages would trust was seduced by the Warlock, Scarlett Stavenger. The pact was broken. Who broke it? Why? No one now seems to know, but the war took an ugly turn. It was at this point that Rindel Oakenheart was truly unleashed. Despite his Elven ancestry, he was one of the most fervent of the Ascendants. Commanding death squads of Paladins of Mystra (including Haruman, who after this time ascended as a Narzugon), and her Arcane Clerics. \n<br>Trig Urvor (gnome, mage) the original leader and true idealist.\nGarmul Paradur (dwarf, mage)\nSybell Kincaid (Human, sorcerer)\nMathias Oxborn (Halfling, Artificer)\nJuliana Ravenmar (Half-Elf Mage)\n<span class=\"line-spacer d-block\">&nbsp;</span>\nFyril Cigis (Human Mage)\nScarlett Stavenger (Human Warlock)\nRindel Oakenheart (Elf Warlock)\nKrynt Webb (Human Sorcerer)\nRoondar Fasketel (Human Mage)"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

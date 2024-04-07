@@ -1,0 +1,152 @@
+{
+    "id": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+    "title": "Triple A",
+    "slug": "triple-a-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/c/triple-a-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 1000,
+    "creationDate": {
+        "date": "2023-09-20 22:35:58.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "views": 15,
+    "parent": null,
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "68107a4f-5804-421e-86e6-e5c8c7b9ae45",
+            "title": "Grex",
+            "slug": "grex-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/grex-person",
+            "subscribergroups": [],
+            "folderId": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+            "tags": "",
+            "updateDate": {
+                "date": "2023-09-20 22:49:04.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "a6fe8cf1-2de1-43e3-b08c-bb6e578753f6",
+            "title": "Grimtooth Lowblow",
+            "slug": "grimtooth-lowblow-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/grimtooth-lowblow-person",
+            "subscribergroups": [],
+            "folderId": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+            "tags": "",
+            "updateDate": {
+                "date": "2023-09-20 22:55:23.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "4b554cfe-0c1c-404f-b16d-92687501366a",
+            "title": "Lara",
+            "slug": "lara-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/lara-person",
+            "subscribergroups": [],
+            "folderId": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+            "tags": "",
+            "updateDate": {
+                "date": "2023-09-20 22:57:09.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "2260a495-9d73-45ce-b430-4a362299201a",
+            "title": "Qorric",
+            "slug": "qorric-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/qorric-person",
+            "subscribergroups": [],
+            "folderId": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+            "tags": null,
+            "updateDate": {
+                "date": "2023-09-20 22:34:40.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "8a4038e2-4581-4c27-9f57-3d8215bb1e2d",
+            "title": "Rigz",
+            "slug": "rigz-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/rigz-person",
+            "subscribergroups": [],
+            "folderId": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+            "tags": null,
+            "updateDate": {
+                "date": "2023-09-21 12:13:13.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "e73e123e-9365-4196-86cb-62c328714526",
+            "title": "Ugarth",
+            "slug": "ugarth-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/ugarth-person",
+            "subscribergroups": [],
+            "folderId": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+            "tags": "",
+            "updateDate": {
+                "date": "2023-09-20 22:54:44.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        }
+    ],
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}"
+}

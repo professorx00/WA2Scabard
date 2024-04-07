@@ -1,0 +1,173 @@
+{
+    "id": "5860571f-5305-4a50-8817-91ed00912007",
+    "title": "Gond",
+    "slug": "gond-myth",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Myth",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/gond-myth",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-07 21:31:37.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 990,
+    "excerpt": null,
+    "template": "myth",
+    "wordcount": 617,
+    "creationDate": {
+        "date": "2020-11-14 06:42:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-15 06:46:46.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 124,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+        "title": "Mythology, Gods, Religion",
+        "slug": "gods-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/gods-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Gond (pronounced: /ˈgɑːnd/ GAHND or: /ˈgɒnd/ GOND about this audio file listen), known as Nebulen among gnomes and as as Zionil in the Shining Lands, was the Faerûnian god of craft, smithing, and inventiveness. The Lord of All Smiths pushed for innovation and imaginativeness, sometimes to a dangerous degree as a result of his short-sighted desire to create.\r\n\r\nRelationships\r\n\r\nAlong with Milil, Deneir, and Oghma, Gond was one of the Deities of Knowledge and Invention. He was on relatively good terms with Oghma, though sometimes their relationship could be tense, due to Gond's tendency to push new inventions being rapidly introduced across Faerûn without thinking of the consequences. His relationship with Milil was strained as they had little in common.\r\n\r\nBeyond the Deities of Knowledge and Invention, Gond was known to have a friendly rivalry with Chauntea.\r\nWorshipers\r\n\r\nThe holy symbol of Gond.\r\n\r\nMain article: Church of Gond\r\n\r\nThe heart of Gond's church was the High Holy Crafthouse of Inspiration in the city of Illul in Lantan. This monastery was run by the High Artificer, Danactar, Most Holy Servant of Gond. Danactar was the highest-ranking mortal cleric of Gond; he was the supreme voice in ecclesiastical matters and he served in Lantan's ruling council, the Ayrorch. The church of Gond consisted mostly of wandering clerics who traveled from settlement to settlement, finding work as artisans and engineers. Settling in one area was only encouraged in centers of innovation that warranted constant observation, such as Zhentil Keep, Waterdeep, Athkatla, and Suzail. The church encouraged wealth, as it demonstrated the benefits of following Gond. As they traveled, clerics took samples of any inventions they discovered and assisted innovators they encountered, filing regular reports to their superiors.\r\n\r\nTemples to Gond were imposing, boxy stone structures surrounded by porticoes. The only internal decorations were sprawling exhibits of items, some of historical interest, some representing the latest work of master crafters. The central altar consisted of a massive anvil surrounded by spinning cogs in a giant machine. Backrooms consisted of workshops.\r\n\r\nClerics of Gond had a unique dress. They wore saffron robes, sashes that held tools, and sun hats. They had great belts of large linked medallion ringlets. In north Faerûn, they served rural communities as tinkerers, carpenters, and civil engineers. All clerics of Gond kept a journal in which they wrote down ideas for inventions to be worked on and contemplated. Journals kept by wandering priests were given to temples they visited. Their notes were recorded and added to the temple library for everyone to gain insight from.\r\n\r\nA techsmith working on a gondsman.\r\n\r\nThe center of Gondite religion was the High House of Wonders in Baldur's Gate. The cities' faithful also built a great museum, the Hall of Wonders, to display Gondite inventions.\r\n\r\nThe church of Mystra opposed Gond's, believing he held technology above magic; in truth, Gond viewed magic as a tool to further his creativity. Merchants cultivated relationships with Gond's clergy in the hope of profiting from trading in Gondar inventions. Periodically, an invention of the followers of Gond would have an adverse economic effect, resulting in hostility from other faiths.[citation needed]\r\n\r\nGond was accepted among the gnomish pantheon as Nebelun the meddler, though a small gnomish cult believed that Nebelun was a separate deity. Though the latter was correct, Nebelun was only active in other crystal spheres, leaving the Faerûnian Lord of All Smiths free to take his place in the Realms.\r\n\r\nGond's faith was the state religion of Lantan. The church of Gond was tolerated across Faerûn and members were found in both good- and evil-aligned human populations. He had an increasing following in rock gnome communities.",
+    "contentParsed": "Gond (pronounced: /ˈgɑːnd/ GAHND or: /ˈgɒnd/ GOND about this audio file listen), known as Nebulen among gnomes and as as Zionil in the Shining Lands, was the Faerûnian god of craft, smithing, and inventiveness. The Lord of All Smiths pushed for innovation and imaginativeness, sometimes to a dangerous degree as a result of his short-sighted desire to create.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nRelationships\n<span class=\"line-spacer d-block\">&nbsp;</span>\nAlong with Milil, Deneir, and Oghma, Gond was one of the Deities of Knowledge and Invention. He was on relatively good terms with Oghma, though sometimes their relationship could be tense, due to Gond&#039;s tendency to push new inventions being rapidly introduced across Faerûn without thinking of the consequences. His relationship with Milil was strained as they had little in common.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nBeyond the Deities of Knowledge and Invention, Gond was known to have a friendly rivalry with Chauntea.\nWorshipers\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe holy symbol of Gond.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nMain article: Church of Gond\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe heart of Gond&#039;s church was the High Holy Crafthouse of Inspiration in the city of Illul in Lantan. This monastery was run by the High Artificer, Danactar, Most Holy Servant of Gond. Danactar was the highest-ranking mortal cleric of Gond; he was the supreme voice in ecclesiastical matters and he served in Lantan&#039;s ruling council, the Ayrorch. The church of Gond consisted mostly of wandering clerics who traveled from settlement to settlement, finding work as artisans and engineers. Settling in one area was only encouraged in centers of innovation that warranted constant observation, such as Zhentil Keep, Waterdeep, Athkatla, and Suzail. The church encouraged wealth, as it demonstrated the benefits of following Gond. As they traveled, clerics took samples of any inventions they discovered and assisted innovators they encountered, filing regular reports to their superiors.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nTemples to Gond were imposing, boxy stone structures surrounded by porticoes. The only internal decorations were sprawling exhibits of items, some of historical interest, some representing the latest work of master crafters. The central altar consisted of a massive anvil surrounded by spinning cogs in a giant machine. Backrooms consisted of workshops.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nClerics of Gond had a unique dress. They wore saffron robes, sashes that held tools, and sun hats. They had great belts of large linked medallion ringlets. In north Faerûn, they served rural communities as tinkerers, carpenters, and civil engineers. All clerics of Gond kept a journal in which they wrote down ideas for inventions to be worked on and contemplated. Journals kept by wandering priests were given to temples they visited. Their notes were recorded and added to the temple library for everyone to gain insight from.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nA techsmith working on a gondsman.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe center of Gondite religion was the High House of Wonders in Baldur&#039;s Gate. The cities&#039; faithful also built a great museum, the Hall of Wonders, to display Gondite inventions.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe church of Mystra opposed Gond&#039;s, believing he held technology above magic; in truth, Gond viewed magic as a tool to further his creativity. Merchants cultivated relationships with Gond&#039;s clergy in the hope of profiting from trading in Gondar inventions. Periodically, an invention of the followers of Gond would have an adverse economic effect, resulting in hostility from other faiths.[citation needed]\n<span class=\"line-spacer d-block\">&nbsp;</span>\nGond was accepted among the gnomish pantheon as Nebelun the meddler, though a small gnomish cult believed that Nebelun was a separate deity. Though the latter was correct, Nebelun was only active in other crystal spheres, leaving the Faerûnian Lord of All Smiths free to take his place in the Realms.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nGond&#039;s faith was the state religion of Lantan. The church of Gond was tolerated across Faerûn and members were found in both good- and evil-aligned human populations. He had an increasing following in rock gnome communities.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

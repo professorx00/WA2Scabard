@@ -1,0 +1,435 @@
+{
+    "id": "b3d05b59-ef3e-4a49-8586-8571ca5dacc5",
+    "title": "Thornfield",
+    "slug": "thornfield-article",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Settlement",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/thornfield-article",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "#Farofaen,#-Darius-Thornfield",
+    "updateDate": {
+        "date": "2021-12-12 23:27:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 950,
+    "excerpt": "The seat of Darius Thornfield, the initial settlement in Farofaen.",
+    "template": "settlement",
+    "wordcount": 292,
+    "creationDate": {
+        "date": "2019-09-02 05:49:33.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-01 17:03:11.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 105,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "4af777ce-b34d-42f2-beaa-d829ed79a0ef",
+        "title": "Thornfield",
+        "slug": "thornfield-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/thornfield-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 2763801,
+        "title": "thornfieldbanner.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/ca91fbf266fae5984b13644d25f5145e.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2021-10-29 16:22:44.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "The Capital City of Farofaen and stronghold of Baron Darius Thornfield. A circular city built within the former realm of the Elves. Founded on forestry, struggling to produce in recent days.\r\n[hr]\r\n[quote]Observed from a distance and slightly elevated as you are, Thornfield strongly resembles the hub of a wagon wheel. It's roads branching off in the cardinal directions from it's circular walls. The walls themselves are imposing, and wooden, silver streaks running noticeably down the length of the logs. There are a few farmhouses scattered around the outskirts but they seem a bit out of place. There is a  small cluster of tents by the eastern gate. There is some slow construction of a moat going on.\r\nOtherwise for a city of it's size Thornfield seems... quiet. The banners of Thornfield flap lazily in the gentle breeze.[/quote]\r\n\r\nIf the party arrives during the day the gates are open, but two guards stop and question them about what they are doing in Thornfield but are easily sufficed.",
+    "contentParsed": "The Capital City of Farofaen and stronghold of Baron Darius Thornfield. A circular city built within the former realm of the Elves. Founded on forestry, struggling to produce in recent days.\n<hr>\n<blockquote class=\"visibility-toggler\" id=\"c3b87b7cca2d183d18bc0ad0481b809d\">Observed from a distance and slightly elevated as you are, Thornfield strongly resembles the hub of a wagon wheel. It&#039;s roads branching off in the cardinal directions from it&#039;s circular walls. The walls themselves are imposing, and wooden, silver streaks running noticeably down the length of the logs. There are a few farmhouses scattered around the outskirts but they seem a bit out of place. There is a small cluster of tents by the eastern gate. There is some slow construction of a moat going on.\nOtherwise for a city of it&#039;s size Thornfield seems... quiet. The banners of Thornfield flap lazily in the gentle breeze.</blockquote>\n<span class=\"line-spacer d-block\">&nbsp;</span>\nIf the party arrives during the day the gates are open, but two guards stop and question them about what they are doing in Thornfield but are easily sufficed.",
+    "sections": {
+        "sidebarcontent": {
+            "title": "",
+            "position": "",
+            "content": "[img:2077003]",
+            "contentParsed": "<div id=\"c6d03a600ac22d97cf5750eeea29c4d2\" class=\"visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 \"><a class=\"\" alt=\"\" title=\"Lord Darius Thornfield\" href=\"/i/2077003\"><img src=\"/uploads/images/a86e6605684af75d331c53b1cea982da.jpg\" class=\"img-responsive img-fluid image-2077003 \" alt=\"\" title=\"Lord Darius Thornfield\" /></a></div>"
+        },
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "geography": {
+            "title": "",
+            "position": "",
+            "content": "Gently rolling hills, the fresh water comes from the spring by the giant ironwood.",
+            "contentParsed": "Gently rolling hills, the fresh water comes from the spring by the giant ironwood."
+        },
+        "naturalresources": {
+            "title": "",
+            "position": "",
+            "content": "The woods are the foundation of this city. From lumber to game. There are a few surrounding farms as well.",
+            "contentParsed": "The woods are the foundation of this city. From lumber to game. There are a few surrounding farms as well."
+        },
+        "population": {
+            "title": "",
+            "position": "",
+            "content": "~5,500",
+            "contentParsed": "~5,500"
+        },
+        "demographics": {
+            "title": "",
+            "position": "",
+            "content": "Mostly human, with a large minority of elves and half elves.",
+            "contentParsed": "Mostly human, with a large minority of elves and half elves."
+        },
+        "defences": {
+            "title": "",
+            "position": "",
+            "content": "Guards, school of magic, circle of protection, wooden palisades, building a moat.",
+            "contentParsed": "Guards, school of magic, circle of protection, wooden palisades, building a moat."
+        },
+        "infrastructure": {
+            "title": "",
+            "position": "",
+            "content": "The has no sewage system. The shit is dropped out of windows like medieval europe. Sawdust is spread on top to moderate the smell.",
+            "contentParsed": "The has no sewage system. The shit is dropped out of windows like medieval europe. Sawdust is spread on top to moderate the smell."
+        },
+        "guilds": {
+            "title": "",
+            "position": "",
+            "content": "Lumber Guild, Thieves Guild",
+            "contentParsed": "Lumber Guild, Thieves Guild"
+        },
+        "industry": {
+            "title": "",
+            "position": "",
+            "content": "Forestry.",
+            "contentParsed": "Forestry."
+        },
+        "government": {
+            "title": "",
+            "position": "",
+            "content": "More or less communist. The state provides cheap or free by voucher, goods and services for registered populace.",
+            "contentParsed": "More or less communist. The state provides cheap or free by voucher, goods and services for registered populace."
+        },
+        "assets": {
+            "title": "",
+            "position": "",
+            "content": "Lots of lumber, cloudleaf and ironwood. Though the stores are depleted much farther than they should be.",
+            "contentParsed": "Lots of lumber, cloudleaf and ironwood. Though the stores are depleted much farther than they should be."
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "dc93c605-ab80-49a6-8acd-c8709ebc6589",
+                    "title": "Brother Angelo",
+                    "slug": "brother-angelo-article",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/brother-angelo-article",
+                    "relationshipType": "article",
+                    "type": "person"
+                },
+                {
+                    "id": "df24b219-a4ee-4e85-8661-64078e220ccf",
+                    "title": "The Waystone Inn",
+                    "slug": "the-waystone-inn-landmark",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/the-waystone-inn-landmark",
+                    "relationshipType": "article",
+                    "type": "location"
+                }
+            ]
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "cover": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": 2763801,
+                "title": "thornfieldbanner.jpg",
+                "type": "image",
+                "relationshipType": "",
+                "state": "public"
+            }
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "f1c3a7b0-8124-4617-8e36-6da1f489cc8c",
+                    "title": "Thornfield",
+                    "slug": "",
+                    "url": "",
+                    "relationshipType": "",
+                    "type": "map"
+                }
+            ]
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "8b654dbb-fd9a-476c-b1ce-1dc8e2360541",
+                    "title": "Octavius's Outrageous Oddities",
+                    "slug": "octavius-s-outrageous-oddities-landmark",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/octavius-s-outrageous-oddities-landmark",
+                    "relationshipType": "article",
+                    "type": "location"
+                }
+            ]
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "5d9c6841-8329-4bf0-83d1-3313098e0b6a",
+                    "title": "Five Finger Viscounts",
+                    "slug": "five-finger-viscounts-organization",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/five-finger-viscounts-organization",
+                    "relationshipType": "article",
+                    "type": "organization"
+                }
+            ]
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "parent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "e88be979-87a4-42da-97c7-5060c239750d",
+                "title": "Farofaen",
+                "type": "location",
+                "relationshipType": "article",
+                "state": "public"
+            }
+        },
+        "type": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "9f342bff-25e0-4a42-8551-81b7db4732c6",
+                "title": "City",
+                "type": "locationtype",
+                "relationshipType": "",
+                "state": "null"
+            }
+        },
+        "person": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "8e078655-7c22-4318-9b73-7ae5fb333571",
+                "title": "Baron Darius Thornfield",
+                "type": "person",
+                "relationshipType": "article",
+                "state": "public"
+            }
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

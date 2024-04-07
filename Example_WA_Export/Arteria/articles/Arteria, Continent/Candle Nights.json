@@ -1,0 +1,160 @@
+{
+    "id": "b8f9e922-be56-4e46-b720-dab25d89c565",
+    "title": "Candle Nights",
+    "slug": "candle-nights-ritual",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Ritual",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/candle-nights-ritual",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-07 18:09:49.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 980,
+    "excerpt": null,
+    "template": "ritual",
+    "wordcount": 102,
+    "creationDate": {
+        "date": "2021-01-01 05:19:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2021-02-07 07:44:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 189,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "20b17e5b-fa32-46ee-9168-5aef35376021",
+        "title": "Arteria, Continent",
+        "slug": "arteria-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arteria-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1954265,
+        "title": "candlenights.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/301842c737cd427c8edad3100d632239.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2021-02-07 18:09:14.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Candlenights – A night when the entire city holds a candlelight vigil until the dead of night, and then exchanging gifts and celebrating with a feast. Groups of families and neighbors stand around the city in patches, while holding their candles up high. This commemorates the time when a group of adventurers killed a nest of gold dragons, relieving many of the farmers of the fear of being killed and their crops burned. The adventurers brought back the dragon’s hoard to share with the town, but because of a raging blizzard, had to be guided in by groupings of torches.",
+    "contentParsed": "Candlenights – A night when the entire city holds a candlelight vigil until the dead of night, and then exchanging gifts and celebrating with a feast. Groups of families and neighbors stand around the city in patches, while holding their candles up high. This commemorates the time when a group of adventurers killed a nest of gold dragons, relieving many of the farmers of the fear of being killed and their crops burned. The adventurers brought back the dragon’s hoard to share with the town, but because of a raging blizzard, had to be guided in by groupings of torches.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "cover": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": 1954265,
+                "title": "candlenights.jpg",
+                "type": "image",
+                "relationshipType": "",
+                "state": "public"
+            }
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

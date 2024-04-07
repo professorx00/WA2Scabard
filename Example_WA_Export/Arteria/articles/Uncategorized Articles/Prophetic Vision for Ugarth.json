@@ -1,0 +1,123 @@
+{
+    "id": "005eb4d7-3ae5-4ada-a471-05b6769ff25a",
+    "title": "Prophetic Vision for Ugarth",
+    "slug": "prophetic-vision-for-ugarth-article",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Article",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/prophetic-vision-for-ugarth-article",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "Ugarth",
+    "updateDate": {
+        "date": "2021-11-16 01:48:54.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "article",
+    "wordcount": 36,
+    "creationDate": {
+        "date": "2021-11-16 01:11:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "hourglass\r\n[br]gauntleted fist\r\n[br]rising, dead, rebirth, live again, celebration, cleansing\r\n[br]\r\n[br]\r\n[br]mielikki? Prison? \r\n[br]Ancient enemy of the Arcane ascendents\r\nhalo, explosion, deific being,",
+    "contentParsed": "hourglass\n<br>gauntleted fist\n<br>rising, dead, rebirth, live again, celebration, cleansing\n<br>\n<br>\n<br>mielikki? Prison? \n<br>Ancient enemy of the Arcane ascendents\nhalo, explosion, deific being,",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

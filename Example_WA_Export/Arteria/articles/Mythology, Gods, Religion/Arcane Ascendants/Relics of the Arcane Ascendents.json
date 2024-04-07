@@ -1,0 +1,154 @@
+{
+    "id": "fb68e595-84ce-49cc-84e5-fa220c48bd04",
+    "title": "Relics of the Arcane Ascendents",
+    "slug": "relics-of-the-arcane-ascendents-item",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Item",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/relics-of-the-arcane-ascendents-item",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-11-03 22:52:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "item",
+    "wordcount": 78,
+    "creationDate": {
+        "date": "2021-11-03 22:48:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "7ad17822-e4aa-4cb3-9cee-98de89a5f7a1",
+        "title": "Arcane Ascendants",
+        "slug": "arcane-ascendants-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcane-ascendants-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Stavangers Grimoire (divination) Book, Scry, identify, detect magic\r\nTorm's Commitment (abjuration) shield/helm, casts: shield, protection from elements, wind wall\r\nAzuths Lament (conjuration) Cloak/clasp, casts: summon monster, banish\r\nMystra's Heart (enchantment), broach, casts: charm person, dominate monster, suggestion\r\n[br](          's) tooth, named for dragon the AA's paid?, spear/polearm, cold or fire white/red dragon, dragon was killed? turned weapon against AA?\r\n[br]Mielikki's Adoration, mithril plate armor? mithril = easily enchanted?\r\n[br]",
+    "contentParsed": "Stavangers Grimoire (divination) Book, Scry, identify, detect magic\nTorm&#039;s Commitment (abjuration) shield/helm, casts: shield, protection from elements, wind wall\nAzuths Lament (conjuration) Cloak/clasp, casts: summon monster, banish\nMystra&#039;s Heart (enchantment), broach, casts: charm person, dominate monster, suggestion\n<br>(          &#039;s) tooth, named for dragon the AA&#039;s paid?, spear/polearm, cold or fire white/red dragon, dragon was killed? turned weapon against AA?\n<br>Mielikki&#039;s Adoration, mithril plate armor? mithril = easily enchanted?\n<br>",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "technologies": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

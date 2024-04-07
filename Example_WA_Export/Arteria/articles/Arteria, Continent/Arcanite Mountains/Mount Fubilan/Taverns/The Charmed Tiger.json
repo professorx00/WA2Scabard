@@ -1,0 +1,269 @@
+{
+    "id": "94dacdad-422e-4fe3-9e5c-3eb6ca026518",
+    "title": "The Charmed Tiger",
+    "slug": "the-charmed-tiger-landmark",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Landmark",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/the-charmed-tiger-landmark",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-11-07 15:26:49.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "landmark",
+    "wordcount": 763,
+    "creationDate": {
+        "date": "2021-11-07 15:26:49.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "747f10b1-b6e9-4c51-873c-bfa4a76a2604",
+        "title": "Taverns",
+        "slug": "taverns-category-1",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/taverns-category-1"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "The Charmed Tiger is owned by a divorced man and his sister, both of whom are members of a race that is common in the area. One of the owners has no hidden secrets or unusual quirks, but the other secretly runs an underground fight club in the basement of the tavern. Before owning the tavern, one of the owners lived a boring life, while the other made a living as a common thug. The inspiration for the tavern's name was a local legend. It is a tavern of modest quality, and its main draw is an eating challenge—if you can eat it all, you don't have to pay.\n\nThe bartender at The Charmed Tiger is a middle-aged female gnome who is ugly. She is often awfully loud in disposition. Her skin is light, and she has grey hair, kept in a slicked-back style. Physically, she is kind of willowy.\n\nOn a typical night, the clientele at The Charmed Tiger can be described as particularly subdued. On this occasion, there are a few other people currently in the tavern. A couple of them are playing a game of darts.\n\nThe rooms for rent at The Charmed Tiger are spacious and unusually dirty. There are currently three rooms available for rent. The cost for a night's stay is 6 sp, 9 cp. If the party spends the night in the tavern, sounds of cheering, shouting, and struggling echo from the basement of the tavern.\n\nBroken Cockatrice Riesling\nA locally produced white wine with a bouquet that is oaky and spicy.\nBottle price: 2 gp, 8 sp\nGlass price: 9 sp, 3 cp\n\nCrystal Chimera Sauvignon Blanc\nAn imported white wine with flavors that are earthy and smokey.\nBottle price: 4 gp, 4 sp\nGlass price: 1 gp, 4 sp\n\nFrightening Cube Riesling\nAn imported white wine with a bouquet that is lean, bitter, and powerful.\nBottle price: 4 gp, 6 sp\nGlass price: 1 gp, 5 sp\n\nBrave Scroll Chardonnay\nA locally produced white wine with a bouquet that is leathery and flat.\nBottle price: 2 gp, 5 sp\nGlass price: 8 sp, 4 cp\n\nSmallest Jacket Lager\n4.64% ABV\nA microbrewed amber lager. Described as a fruity lager with a rich finish.\nGallon price: 4 sp, 9 cp\nPint price: 9 cp\n\nUnlucky Crown Lager\n4.95% ABV\nA locally brewed light amber lager. Described as a sour lager with a strong flavor of vanilla and a pleasant finish.\nGallon price: 3 sp, 9 cp\nPint price: 7 cp\n\nHouse Stout\n5.32% ABV\nA house-brewed dark brown stout. Described as a bitter stout with an aftertaste of malt and a pleasant finish.\nGallon price: 3 sp, 5 cp\nPint price: 7 cp\n\nFish and Sorcerer Stout\n7.09% ABV\nAn imported chestnut brown stout. Described as a pleasantly bitter stout with a sweet finish.\nGallon price: 4 sp, 9 cp\nPint price: 9 cp\n\nFlying Crystal Gin\nA locally produced gin.\nBottle price: 1 gp, 8 sp\nShot price: 3 sp, 1 cp\n\nForgotten Jay Gin\nAn imported gin.\nBottle price: 2 gp, 7 sp\nShot price: 4 sp, 6 cp\n\nWounded Dart Gin\nA poorly made gin.\nBottle price: 8 sp, 8 cp\nShot price: 1 sp, 4 cp\n\nBlackened Mule Rum\nA locally produced molasses rum.\nBottle price: 1 gp, 9 sp\nShot price: 3 sp, 2 cp\n\nLavender Club Brandy\nA locally produced apple brandy.\nBottle price: 1 gp, 9 sp\nShot price: 3 sp, 2 cp\n\nFilled Red Peppers\nA platter of red peppers filled with a fusion of garlic and cheese.\n2 sp, 1 cp\n\nStuffed Baby Artichokes\nA platter of baby artichokes stuffed with a mixture of garlic and meat.\n1 sp, 9 cp\n\nPacked Potato Skins\nA platter of potato skins packed with a fusion of sour cream, meat, and garlic.\n1 sp, 9 cp\n\nDeep-Fried Onion Rings\nOnion rings fried in sunflower oil. Served with a honey-based sauce.\n1 sp, 8 cp\n\nFish Chowder\nA thick chowder with chunks of fish, assorted grains, and onions.\n1 sp, 6 cp\n\nBeef Chowder\nA smooth chowder with cubes of beef, barley, and carrots.\n1 sp, 8 cp\n\nRoasted Chicken and Romaine Salad\nLeaves of romaine tossed with celery. Topped with roasted chicken.\n1 sp, 6 cp\n\nRomaine Salad\nLeaves of romaine tossed with carrots and arugula.\n1 sp, 6 cp\n\nThe Herb-crusted Turkey Challenge\nA full pound of turkey in white sauce slathered on top of another pound of mashed potatoes with a side of red peppers and brussel sprouts.\n6 sp, 6 cp\n\nDeep-fried Turkey\nDeep-fried bits of turkey in a vodka sauce alongside rice and a helping of celery.\n3 sp, 1 cp\n\nRoasted Venison\nRoasted venison in garlic sauce on a bed of mashed potatoes and mushrooms.\n3 sp, 2 cp\n\nHerb-crusted Rabbit\nHerb-crusted strips of rabbit in garlic sauce alongside noodles with a serving of mushrooms.\n3 sp, 1 cp\n\n\nConsuming raw or undercooked meats, poultry, seafood, shellfish or eggs may require a Constitution saving throw.",
+    "contentParsed": "The Charmed Tiger is owned by a divorced man and his sister, both of whom are members of a race that is common in the area. One of the owners has no hidden secrets or unusual quirks, but the other secretly runs an underground fight club in the basement of the tavern. Before owning the tavern, one of the owners lived a boring life, while the other made a living as a common thug. The inspiration for the tavern&#039;s name was a local legend. It is a tavern of modest quality, and its main draw is an eating challenge—if you can eat it all, you don&#039;t have to pay.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThe bartender at The Charmed Tiger is a middle-aged female gnome who is ugly. She is often awfully loud in disposition. Her skin is light, and she has grey hair, kept in a slicked-back style. Physically, she is kind of willowy.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nOn a typical night, the clientele at The Charmed Tiger can be described as particularly subdued. On this occasion, there are a few other people currently in the tavern. A couple of them are playing a game of darts.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThe rooms for rent at The Charmed Tiger are spacious and unusually dirty. There are currently three rooms available for rent. The cost for a night&#039;s stay is 6 sp, 9 cp. If the party spends the night in the tavern, sounds of cheering, shouting, and struggling echo from the basement of the tavern.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBroken Cockatrice Riesling\nA locally produced white wine with a bouquet that is oaky and spicy.\nBottle price: 2 gp, 8 sp\nGlass price: 9 sp, 3 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nCrystal Chimera Sauvignon Blanc\nAn imported white wine with flavors that are earthy and smokey.\nBottle price: 4 gp, 4 sp\nGlass price: 1 gp, 4 sp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nFrightening Cube Riesling\nAn imported white wine with a bouquet that is lean, bitter, and powerful.\nBottle price: 4 gp, 6 sp\nGlass price: 1 gp, 5 sp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBrave Scroll Chardonnay\nA locally produced white wine with a bouquet that is leathery and flat.\nBottle price: 2 gp, 5 sp\nGlass price: 8 sp, 4 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nSmallest Jacket Lager\n4.64% ABV\nA microbrewed amber lager. Described as a fruity lager with a rich finish.\nGallon price: 4 sp, 9 cp\nPint price: 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nUnlucky Crown Lager\n4.95% ABV\nA locally brewed light amber lager. Described as a sour lager with a strong flavor of vanilla and a pleasant finish.\nGallon price: 3 sp, 9 cp\nPint price: 7 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHouse Stout\n5.32% ABV\nA house-brewed dark brown stout. Described as a bitter stout with an aftertaste of malt and a pleasant finish.\nGallon price: 3 sp, 5 cp\nPint price: 7 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nFish and Sorcerer Stout\n7.09% ABV\nAn imported chestnut brown stout. Described as a pleasantly bitter stout with a sweet finish.\nGallon price: 4 sp, 9 cp\nPint price: 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nFlying Crystal Gin\nA locally produced gin.\nBottle price: 1 gp, 8 sp\nShot price: 3 sp, 1 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nForgotten Jay Gin\nAn imported gin.\nBottle price: 2 gp, 7 sp\nShot price: 4 sp, 6 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nWounded Dart Gin\nA poorly made gin.\nBottle price: 8 sp, 8 cp\nShot price: 1 sp, 4 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBlackened Mule Rum\nA locally produced molasses rum.\nBottle price: 1 gp, 9 sp\nShot price: 3 sp, 2 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nLavender Club Brandy\nA locally produced apple brandy.\nBottle price: 1 gp, 9 sp\nShot price: 3 sp, 2 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nFilled Red Peppers\nA platter of red peppers filled with a fusion of garlic and cheese.\n2 sp, 1 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nStuffed Baby Artichokes\nA platter of baby artichokes stuffed with a mixture of garlic and meat.\n1 sp, 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nPacked Potato Skins\nA platter of potato skins packed with a fusion of sour cream, meat, and garlic.\n1 sp, 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nDeep-Fried Onion Rings\nOnion rings fried in sunflower oil. Served with a honey-based sauce.\n1 sp, 8 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nFish Chowder\nA thick chowder with chunks of fish, assorted grains, and onions.\n1 sp, 6 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBeef Chowder\nA smooth chowder with cubes of beef, barley, and carrots.\n1 sp, 8 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nRoasted Chicken and Romaine Salad\nLeaves of romaine tossed with celery. Topped with roasted chicken.\n1 sp, 6 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nRomaine Salad\nLeaves of romaine tossed with carrots and arugula.\n1 sp, 6 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThe Herb-crusted Turkey Challenge\nA full pound of turkey in white sauce slathered on top of another pound of mashed potatoes with a side of red peppers and brussel sprouts.\n6 sp, 6 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nDeep-fried Turkey\nDeep-fried bits of turkey in a vodka sauce alongside rice and a helping of celery.\n3 sp, 1 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nRoasted Venison\nRoasted venison in garlic sauce on a bed of mashed potatoes and mushrooms.\n3 sp, 2 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHerb-crusted Rabbit\nHerb-crusted strips of rabbit in garlic sauce alongside noodles with a serving of mushrooms.\n3 sp, 1 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nConsuming raw or undercooked meats, poultry, seafood, shellfish or eggs may require a Constitution saving throw.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

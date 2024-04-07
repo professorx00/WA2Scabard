@@ -1,0 +1,374 @@
+{
+    "id": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+    "title": "Mythology, Gods, Religion",
+    "slug": "gods-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/c/gods-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 980,
+    "creationDate": {
+        "date": "2020-11-14 05:17:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "views": 92,
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\",\"featuresArticles\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}",
+    "pagecover": null,
+    "bookcover": null,
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "articleRedirect": null,
+    "children": [
+        {
+            "id": "7ad17822-e4aa-4cb3-9cee-98de89a5f7a1",
+            "title": "Arcane Ascendants",
+            "slug": "arcane-ascendants-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcane-ascendants-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        },
+        {
+            "id": "cc7814eb-7a9c-489c-b197-a26a45e6bc97",
+            "title": "God's Tears",
+            "slug": "god27s-tears-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/c/god27s-tears-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        },
+        {
+            "id": "6dff6f6f-9c50-454b-8272-78d7360066c1",
+            "title": "Moonwells",
+            "slug": "moonwells-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/c/moonwells-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "articles": [
+        {
+            "id": "5860571f-5305-4a50-8817-91ed00912007",
+            "title": "Gond",
+            "slug": "gond-myth",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/gond-myth",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-02-07 21:31:37.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "6e5c6d44-2fae-4da7-9205-1d98e7a94322",
+            "title": "Mystra",
+            "slug": "mystra-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/mystra-person",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": "",
+            "updateDate": {
+                "date": "2021-02-07 21:35:51.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "73202f88-1a0e-4d42-979e-0ad92ff7b605",
+            "title": "Torm",
+            "slug": "torm-myth",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/torm-myth",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2020-11-14 07:52:04.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "4a01ff6c-1555-4be1-8ac0-837e07c9ad17",
+            "title": "Tymora",
+            "slug": "tymora-myth",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/tymora-myth",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-02-09 00:01:40.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "1e3b82b8-5979-4bf1-b14b-2f37959dfd8c",
+            "title": "Candle Mice",
+            "slug": null,
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-12-18 03:13:07.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "f1f6cce3-dba4-41ad-ba9f-108c46761802",
+            "title": "Death of the Arcane Ascendants",
+            "slug": "death-of-the-arcane-ascendants-myth",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/death-of-the-arcane-ascendants-myth",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": "",
+            "updateDate": {
+                "date": "2021-11-08 06:22:02.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "eabc3d2e-6459-4841-a59a-fe47891a0438",
+            "title": "Gwaeron Windstrom",
+            "slug": "gwaeron-windstrom-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/gwaeron-windstrom-person",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-02-08 23:57:45.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "7eea02f4-69ff-412f-b4e5-a4d541b84f25",
+            "title": "History of Dragons",
+            "slug": "history-of-dragons-myth",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/history-of-dragons-myth",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2023-03-24 13:06:12.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "a9d5e587-57ee-4c59-a328-e0f30d015ec8",
+            "title": "Idea for God's Tears",
+            "slug": "idea-for-god-s-tears-item",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/idea-for-god-s-tears-item",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2020-11-14 07:55:50.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "ae00c3ac-b0f8-4439-95c6-7d3264eaf782",
+            "title": "Lurue",
+            "slug": "lurue-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/lurue-person",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-02-08 23:57:22.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "c24d52b2-c772-4cad-8822-2257e81afc4b",
+            "title": "Mage Fists, Mage Hands, Arcane Fists",
+            "slug": "mage-fists2C-mage-hands2C-arcane-fists-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Article",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/mage-fists2C-mage-hands2C-arcane-fists-article",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": "",
+            "updateDate": {
+                "date": "2021-11-08 06:08:09.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "195148c6-85d7-46dc-9217-247401e17e93",
+            "title": "Mielikki",
+            "slug": "mielikki-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/mielikki-person",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-02-09 00:32:01.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "bf8ae568-d2c7-49d5-9323-68512233ebd7",
+            "title": "Orcish Pantheon",
+            "slug": "orcish-pantheon-ritual",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Ritual",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/orcish-pantheon-ritual",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": "",
+            "updateDate": {
+                "date": "2023-09-21 13:13:54.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "28b56a67-ab68-442d-8bf1-2c7fe0a649d7",
+            "title": "Tharizdun",
+            "slug": "tharizdun-myth",
+            "state": "private",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Myth",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/tharizdun-myth",
+            "subscribergroups": [],
+            "folderId": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+            "tags": "",
+            "updateDate": {
+                "date": "2021-12-30 23:33:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        }
+    ],
+    "editURL": "http://www.worldanvil.com/world/category/d73b8057-14e9-4c03-96e4-70a93c388d5f/edit"
+}

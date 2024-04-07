@@ -1,0 +1,174 @@
+{
+    "id": "f24fe8da-69f8-424d-aaae-f89e070b78db",
+    "title": "Book: Tears of the Gods",
+    "slug": "book3A-tears-of-the-gods-plot-1",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Plot",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/book3A-tears-of-the-gods-plot-1",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2020-10-08 02:24:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "plot",
+    "wordcount": 19,
+    "creationDate": {
+        "date": "2020-10-08 02:21:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "cc7814eb-7a9c-489c-b197-a26a45e6bc97",
+        "title": "God's Tears",
+        "slug": "god27s-tears-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/god27s-tears-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "At the worlds fair unveil new terrible magical devices drawing upon the gods tears.",
+    "contentParsed": "At the worlds fair unveil new terrible magical devices drawing upon the gods tears.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ggmnpcs": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ggmmonsters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ggmmaps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedpeople": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedlocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "campaignplots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

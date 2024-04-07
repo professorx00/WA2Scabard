@@ -1,0 +1,273 @@
+{
+    "id": "72b52636-4788-48e0-b13e-4fe9e6425db1",
+    "title": "Lionshield Coster",
+    "slug": "lionshield-coster-landmark",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Landmark",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/lionshield-coster-landmark",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-07 07:58:17.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 960,
+    "excerpt": null,
+    "template": "landmark",
+    "wordcount": 98,
+    "creationDate": {
+        "date": "2020-11-20 21:43:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2021-02-07 07:58:15.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 35,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "0ed2404e-43e2-4751-a09d-bf5a8b629008",
+        "title": "Phandalin",
+        "slug": "phandalin-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/phandalin-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Hanging above the front door of this modest trading post is\r\na sign shaped like a wooden shield with a blue lion painted\r\non it.\r\n\r\nThis building is owned by the Lionshields, a merchant\r\ncompany based in the city of Yront, over a hundred miles\r\nto the east. They ship finished goods to Phandalin and\r\nother small settlements throughout the region, but this\r\noutpost has been hard hit by banditry. The most recent\r\nLionshield caravan due in Phandalin never arrived.\r\n\r\nThe master of the Phandalin post is a sharp-tongued\r\nhuman man of thirty-five named Hugh Coster.",
+    "contentParsed": "Hanging above the front door of this modest trading post is\na sign shaped like a wooden shield with a blue lion painted\non it.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThis building is owned by the Lionshields, a merchant\ncompany based in the city of Yront, over a hundred miles\nto the east. They ship finished goods to Phandalin and\nother small settlements throughout the region, but this\noutpost has been hard hit by banditry. The most recent\nLionshield caravan due in Phandalin never arrived.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe master of the Phandalin post is a sharp-tongued\nhuman man of thirty-five named Hugh Coster.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "id": "4a01ff6c-1555-4be1-8ac0-837e07c9ad17",
+    "title": "Tymora",
+    "slug": "tymora-myth",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Myth",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/tymora-myth",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-09 00:01:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 960,
+    "excerpt": null,
+    "template": "myth",
+    "wordcount": 724,
+    "creationDate": {
+        "date": "2020-11-14 04:28:10.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-14 06:05:56.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 97,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+        "title": "Mythology, Gods, Religion",
+        "slug": "gods-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/gods-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Offerings made to the goddess are often accompanied by the prayer, \"A copper to the Lady returns tenfold in gold.\"\r\n[br]Tymora (pronounced: /taɪˈmɔːrɑː/ ty-MOR-ah), or more commonly Lady Luck, was the goddess of good fortune. She shone upon those who took risks and blessed those who dealt harshly with the followers of Beshaba. Should someone flee from her sister's mischievous followers or defile the dead, their fate would be decided with a roll of Tymora's dice.\r\n\r\nRealm\r\nTymora resided in the Gates of the Moon, allied to, but independent of, that realm's twin mistresses. Her realm was the Great Wheel, seven earthmotes connected by lofty bridges, where games of chance, tests of luck, and gambling abounded.\r\nRelationships\r\n\r\nSages have claimed that Tymora had fostered many brief trysts with good-aligned male deities, always ending them amicably when her attentions were drawn elsewhere. She was known to count Baravar Cloakshadow, Dugmaren Brightmantle, Erevan Ilesere, Finder Wyvernspur, Garl Glittergold, Haela Brightaxe, Hanali Celanil, Lathander, Marthammor Duin, Selûne, Shaundakul and Vergadain as her allies. She also had a relationship with Brandobaris, acting as his accomplice when he played tricks on others. Beshaba was her fiercest foe, but she also held emnity for Bane and Moander. Though she held no malice towards them, she occasionally played tricks and pranks on the more staid deities, such as Helm and Tyr.\r\n\r\nTymora.\r\nHistory\r\n\r\nTymora was a sister to Beshaba, the goddess of misfortune, having been created when Tyche, the former deity of luck, was infected by Moander's evil essence and split apart by Selûne.\r\n\r\nDuring the Time of Troubles, Tymora's avatar manifested at the Lady's House in the Cormyrian city of Arabel. It is thought that her presence in that city spared Cormyr from the chaos which affected most of the rest of Faerûn at the time.\r\n\r\nTymora was involved in an unfortunate misunderstanding when Sune encouraged her and Tyr to pursue a romantic relationship. Tyr was led to believe (some say due to the machinations of Cyric), that Helm, who was chaperoning the couple, was seeing Tymora behind his back. This led to a fight in which Helm was apparently slain. So upset was Tymora at this turn of events, that she abandoned her realm in Brightwater, and was accepted by Selûne to live in the Gates of the Moon.\r\nWorshipers\r\n\r\nMain article: Church of Tymora\r\n\r\nCommonly consisting of adventurers and others who relied on a mixture of luck and skill to achieve their goals, the Tymoran clergy encouraged folk to pursue their dreams. They were also duty-bound to aid the daring by providing healing and even some minor magic items.[citation needed]\r\n\r\nShrines and temples of Tymora were widespread as the needs of adventurers to be healed made the temples wealthy. These places of worship often differed significantly from each other in powers, manners, and titles though, with little overall authority or hierarchy. The temples provided potions, scrolls, or other little things like glowstones, often as rewards to those who served Tymora and her tenets well.[citation needed]\r\n\r\nA luckbringer of Tymora\r\n\r\nHalflings believed that, since Tymora often manifested as a halfling to them, she was actually a halfling deity herself and had conned the 'big folk' into worshiping her as well.\r\nPrayers\r\n\r\nOfferings made to the goddess are often accompanied by the prayer, \"A copper to the Lady returns tenfold in gold.\"[14]\r\nOrders\r\nFellows of Free Fate\r\nThis was a special fellowship of clergy within the church of Tymora who dedicated themselves to countering the efforts of Beshaba, and especially of the Black Fingers, her assassins. Any clergy member who showed experience, dedication to the cause, and was vouched for by a senior Fellow could join.[citation needed]\r\nTesters\r\nThe Testers were fanactical followers of Tymora who took extreme risks in order to further the worship of the goddess. When the choice was between a safe approach and one with little margin for error, they would rely on the flashier but more difficult approach. This was to prove to others the glory of Tymora.[15]\r\nFatemakers\r\nA heretical band who believed that all luck was the same and that mortals could influence luck, if they had enough power. The Fatemakers were followers of many different gods and goddesses, including Tymora and Beshaba, and would often work together for a common goal",
+    "contentParsed": "Offerings made to the goddess are often accompanied by the prayer, &quot;A copper to the Lady returns tenfold in gold.&quot;\n<br>Tymora (pronounced: /taɪˈmɔːrɑː/ ty-MOR-ah), or more commonly Lady Luck, was the goddess of good fortune. She shone upon those who took risks and blessed those who dealt harshly with the followers of Beshaba. Should someone flee from her sister&#039;s mischievous followers or defile the dead, their fate would be decided with a roll of Tymora&#039;s dice.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nRealm\nTymora resided in the Gates of the Moon, allied to, but independent of, that realm&#039;s twin mistresses. Her realm was the Great Wheel, seven earthmotes connected by lofty bridges, where games of chance, tests of luck, and gambling abounded.\nRelationships\n<span class=\"line-spacer d-block\">&nbsp;</span>\nSages have claimed that Tymora had fostered many brief trysts with good-aligned male deities, always ending them amicably when her attentions were drawn elsewhere. She was known to count Baravar Cloakshadow, Dugmaren Brightmantle, Erevan Ilesere, Finder Wyvernspur, Garl Glittergold, Haela Brightaxe, Hanali Celanil, Lathander, Marthammor Duin, Selûne, Shaundakul and Vergadain as her allies. She also had a relationship with Brandobaris, acting as his accomplice when he played tricks on others. Beshaba was her fiercest foe, but she also held emnity for Bane and Moander. Though she held no malice towards them, she occasionally played tricks and pranks on the more staid deities, such as Helm and Tyr.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nTymora.\nHistory\n<span class=\"line-spacer d-block\">&nbsp;</span>\nTymora was a sister to Beshaba, the goddess of misfortune, having been created when Tyche, the former deity of luck, was infected by Moander&#039;s evil essence and split apart by Selûne.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nDuring the Time of Troubles, Tymora&#039;s avatar manifested at the Lady&#039;s House in the Cormyrian city of Arabel. It is thought that her presence in that city spared Cormyr from the chaos which affected most of the rest of Faerûn at the time.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nTymora was involved in an unfortunate misunderstanding when Sune encouraged her and Tyr to pursue a romantic relationship. Tyr was led to believe (some say due to the machinations of Cyric), that Helm, who was chaperoning the couple, was seeing Tymora behind his back. This led to a fight in which Helm was apparently slain. So upset was Tymora at this turn of events, that she abandoned her realm in Brightwater, and was accepted by Selûne to live in the Gates of the Moon.\nWorshipers\n<span class=\"line-spacer d-block\">&nbsp;</span>\nMain article: Church of Tymora\n<span class=\"line-spacer d-block\">&nbsp;</span>\nCommonly consisting of adventurers and others who relied on a mixture of luck and skill to achieve their goals, the Tymoran clergy encouraged folk to pursue their dreams. They were also duty-bound to aid the daring by providing healing and even some minor magic items.[citation needed]\n<span class=\"line-spacer d-block\">&nbsp;</span>\nShrines and temples of Tymora were widespread as the needs of adventurers to be healed made the temples wealthy. These places of worship often differed significantly from each other in powers, manners, and titles though, with little overall authority or hierarchy. The temples provided potions, scrolls, or other little things like glowstones, often as rewards to those who served Tymora and her tenets well.[citation needed]\n<span class=\"line-spacer d-block\">&nbsp;</span>\nA luckbringer of Tymora\n<span class=\"line-spacer d-block\">&nbsp;</span>\nHalflings believed that, since Tymora often manifested as a halfling to them, she was actually a halfling deity herself and had conned the &#039;big folk&#039; into worshiping her as well.\nPrayers\n<span class=\"line-spacer d-block\">&nbsp;</span>\nOfferings made to the goddess are often accompanied by the prayer, &quot;A copper to the Lady returns tenfold in gold.&quot;[14]\nOrders\nFellows of Free Fate\nThis was a special fellowship of clergy within the church of Tymora who dedicated themselves to countering the efforts of Beshaba, and especially of the Black Fingers, her assassins. Any clergy member who showed experience, dedication to the cause, and was vouched for by a senior Fellow could join.[citation needed]\nTesters\nThe Testers were fanactical followers of Tymora who took extreme risks in order to further the worship of the goddess. When the choice was between a safe approach and one with little margin for error, they would rely on the flashier but more difficult approach. This was to prove to others the glory of Tymora.[15]\nFatemakers\nA heretical band who believed that all luck was the same and that mortals could influence luck, if they had enough power. The Fatemakers were followers of many different gods and goddesses, including Tymora and Beshaba, and would often work together for a common goal",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

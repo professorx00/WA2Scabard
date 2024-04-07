@@ -1,0 +1,95 @@
+{
+    "id": "0120f785-072a-43c2-b94a-5ed75e9edd07",
+    "title": "Ecology",
+    "slug": "ecology-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/c/ecology-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 940,
+    "creationDate": {
+        "date": "2023-05-04 17:57:10.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "views": 5,
+    "parent": null,
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "5084f44f-bf19-4c3b-b6f3-6b7eebd4e6db",
+            "title": "Flying Fish",
+            "slug": "flying-fish-species",
+            "state": "private",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/flying-fish-species",
+            "subscribergroups": [],
+            "folderId": "0120f785-072a-43c2-b94a-5ed75e9edd07",
+            "tags": "",
+            "updateDate": {
+                "date": "2023-04-11 16:43:26.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "243a951a-d221-4835-bcde-6836cd29d47d",
+            "title": "Herbs",
+            "slug": "herbs-material",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Material",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/herbs-material",
+            "subscribergroups": [],
+            "folderId": "0120f785-072a-43c2-b94a-5ed75e9edd07",
+            "tags": null,
+            "updateDate": {
+                "date": "2020-11-16 02:41:40.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "ca7dc7da-991a-46ed-9625-c6e03161d115",
+            "title": "Ideas for geography",
+            "slug": "ideas-for-geography-location",
+            "state": "private",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Location",
+            "icon": "fa-solid fa-mountain",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/ideas-for-geography-location",
+            "subscribergroups": [],
+            "folderId": "0120f785-072a-43c2-b94a-5ed75e9edd07",
+            "tags": null,
+            "updateDate": {
+                "date": "2021-02-02 05:28:05.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        }
+    ],
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}"
+}

@@ -1,0 +1,129 @@
+{
+    "id": "8ae73630-4d52-4cff-9564-93806cf551c2",
+    "title": "Wild Encounters around Phandalin",
+    "slug": "wild-encounters-around-phandalin-article",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Article",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/wild-encounters-around-phandalin-article",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2020-11-20 21:56:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 880,
+    "excerpt": null,
+    "template": "article",
+    "wordcount": 216,
+    "creationDate": {
+        "date": "2020-11-20 21:56:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "0ed2404e-43e2-4751-a09d-bf5a8b629008",
+        "title": "Phandalin",
+        "slug": "phandalin-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/phandalin-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "WILDERNESS ENCOUNTERS\nDay Roll Night Roll Result\n1-2 1-3 Stirges (ld8 + 2)\n4 Ghouls (ld4 + 1)\n3-4 Ogre (1)\n5-6 5 Goblins (ld6 + 3)\n7-8 6 Hobgoblins (ld4 + 2)\n9-10 7-8 Ores (ld4 + 2)\n11 9-10 Wolves (ld4 + 2)\n12 11-12 Owl bear (1)\nStirges, These flying predators drain the blood of their\nvictims and are drawn to the light of campfires at night.\nGhouls. These undead humans hunger for living flesh.\nOgre. The ogre is looking for an easy kill. It is too stupid\nto flee once combat is joined.\n27\nPART 3: THE SPIDER'S WEB\nGoblins. The goblins know the location of Cragmaw\nCastle and can provide directions if they are captured and\nthreatened. Each one carries a pouch containing Id l.O cp.\nHobgoblins. This squad of hobgoblins is actively\nseeking the adventurers, hoping to collect on a bounty.\nThey know the location of Cragmaw Castle but won't\nprovide directions unless they are charmed. One\nhobgoblin carries a crudely drawn sketch of one party\nmember, with \"25 gold pieces for this one\" and a symbol of\na black spider drawn beneath it.\nOres. These scouts are part of the band currently based\nat Wyvern Tor. As they roam, they look for travelers to\nambush or homesteads to burn.\nOw/bear. This hungry predator picks up the characters'\nscent and pursues them relentlessly.",
+    "contentParsed": "WILDERNESS ENCOUNTERS\nDay Roll Night Roll Result\n1-2 1-3 Stirges (ld8 + 2)\n4 Ghouls (ld4 + 1)\n3-4 Ogre (1)\n5-6 5 Goblins (ld6 + 3)\n7-8 6 Hobgoblins (ld4 + 2)\n9-10 7-8 Ores (ld4 + 2)\n11 9-10 Wolves (ld4 + 2)\n12 11-12 Owl bear (1)\nStirges, These flying predators drain the blood of their\nvictims and are drawn to the light of campfires at night.\nGhouls. These undead humans hunger for living flesh.\nOgre. The ogre is looking for an easy kill. It is too stupid\nto flee once combat is joined.\n27\nPART 3: THE SPIDER&#039;S WEB\nGoblins. The goblins know the location of Cragmaw\nCastle and can provide directions if they are captured and\nthreatened. Each one carries a pouch containing Id l.O cp.\nHobgoblins. This squad of hobgoblins is actively\nseeking the adventurers, hoping to collect on a bounty.\nThey know the location of Cragmaw Castle but won&#039;t\nprovide directions unless they are charmed. One\nhobgoblin carries a crudely drawn sketch of one party\nmember, with &quot;25 gold pieces for this one&quot; and a symbol of\na black spider drawn beneath it.\nOres. These scouts are part of the band currently based\nat Wyvern Tor. As they roam, they look for travelers to\nambush or homesteads to burn.\nOw/bear. This hungry predator picks up the characters&#039;\nscent and pursues them relentlessly.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

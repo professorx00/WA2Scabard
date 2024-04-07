@@ -1,0 +1,151 @@
+{
+    "id": "deffe6f9-9d2d-418a-9057-d57de978429e",
+    "title": "Constellations",
+    "slug": "constellations-law",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Law",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/constellations-law",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-07 16:05:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 970,
+    "excerpt": null,
+    "template": "law",
+    "wordcount": 158,
+    "creationDate": {
+        "date": "2020-11-19 17:57:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-29 03:13:49.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 212,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "20b17e5b-fa32-46ee-9168-5aef35376021",
+        "title": "Arteria, Continent",
+        "slug": "arteria-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arteria-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1953717,
+        "title": "Stars Layer3.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/86c25578274afb2be3197f673fdba805.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2021-02-07 16:05:10.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Clergy of Mystra, goddess of magic, held a regular ceremony in which they observed various stars and constellations, named them, and gave them reverence. Sometimes a silent image illusion was used to brighten stars and animate constellations, though this was a bit ostentatious. The Temple of Mystra in Wreecaster did this every clear night in 1374 EAD.\r\n\r\nThe Centaur, viewable over the Morinmeda Coast North in summer.\r\nThe Woman Warrior, viewable over the Morinmeda Coast North in summer.\r\nTorm's belt, viewable over the Bizkarrezura Range in summer.\r\nMystra's Star Circle (also known as the Crown of the North or the Cold Crown), viewable in the North in winter and autumn.\r\nThe Harp.\r\nThe Sword and Dagger.\r\nThe Lady of Mystery.\r\nThe Dragon of Dawn.\r\nThe Eyes of the Watching Woman (also known as the Double Daggers, which indicate true west in the North.)\r\nThe Arrows of the Gods which indicate true East in the North.\r\nThe Spellweavers",
+    "contentParsed": "Clergy of Mystra, goddess of magic, held a regular ceremony in which they observed various stars and constellations, named them, and gave them reverence. Sometimes a silent image illusion was used to brighten stars and animate constellations, though this was a bit ostentatious. The Temple of Mystra in Wreecaster did this every clear night in 1374 EAD.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe Centaur, viewable over the Morinmeda Coast North in summer.\nThe Woman Warrior, viewable over the Morinmeda Coast North in summer.\nTorm&#039;s belt, viewable over the Bizkarrezura Range in summer.\nMystra&#039;s Star Circle (also known as the Crown of the North or the Cold Crown), viewable in the North in winter and autumn.\nThe Harp.\nThe Sword and Dagger.\nThe Lady of Mystery.\nThe Dragon of Dawn.\nThe Eyes of the Watching Woman (also known as the Double Daggers, which indicate true west in the North.)\nThe Arrows of the Gods which indicate true East in the North.\nThe Spellweavers",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "lawtype": {
+            "title": "",
+            "position": "",
+            "content": "Natural",
+            "contentParsed": "Natural"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "cover": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": 1953717,
+                "title": "Stars Layer3.jpg",
+                "type": "image",
+                "relationshipType": "",
+                "state": "public"
+            }
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

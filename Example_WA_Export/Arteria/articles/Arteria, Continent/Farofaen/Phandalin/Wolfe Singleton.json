@@ -1,0 +1,277 @@
+{
+    "id": "c5d2ba50-919e-47eb-a650-a7785dc21b0e",
+    "title": "Wolfe Singleton",
+    "slug": "wolfe-singleton-person",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Person",
+    "icon": "fa-solid fa-user-crown",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/wolfe-singleton-person",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-07 18:22:38.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 910,
+    "excerpt": null,
+    "template": "person",
+    "wordcount": 25,
+    "creationDate": {
+        "date": "2020-11-29 03:06:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-29 03:13:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 38,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "0ed2404e-43e2-4751-a09d-bf5a8b629008",
+        "title": "Phandalin",
+        "slug": "phandalin-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/phandalin-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "portrait": {
+        "id": 1954302,
+        "title": "lumber.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/fa0bd211c6ea7f70f588a01e8787888a.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2021-02-07 18:20:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Stereotypical Sterling Student, Naturalist, noticeably lacking worldly/combat experience, sent by Lord Darius on a special mission to investigate the blight around Phandalin.",
+    "contentParsed": "Stereotypical Sterling Student, Naturalist, noticeably lacking worldly/combat experience, sent by Lord Darius on a special mission to investigate the blight around Phandalin.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "families": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "firstHeldRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "heldItems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "createditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ruledLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "religions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "currentRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "pastRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentsauthored": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentssigned": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicalEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "proses": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedReports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

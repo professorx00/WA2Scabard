@@ -1,0 +1,283 @@
+{
+    "id": "2260a495-9d73-45ce-b430-4a362299201a",
+    "title": "Qorric",
+    "slug": "qorric-person",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Person",
+    "icon": "fa-solid fa-user-crown",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/qorric-person",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2023-09-20 22:34:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "person",
+    "wordcount": 193,
+    "creationDate": {
+        "date": "2023-09-20 22:24:59.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2023-09-20 22:41:25.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 7,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+        "title": "Triple A",
+        "slug": "triple-a-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/triple-a-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "portrait": {
+        "id": 4896255,
+        "title": "arrakocra.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/99592620b9152f11faa8934b53044053.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2023-09-20 22:31:28.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Aaracokra Ranger\r\n[br]Founding Member of Triple A\r\n[br]He is only about 16 years old, which makes him a mature adult in aaracockra years and his family is from the mountains to the north. The mountains AAA are in now may be around the southern reach of his aerie’s range (the Arcanites). \r\n[br]He does not speak of it often, but his people, who included some talented but reclusive artisans and connoisseurs of Shiny Things were nearly entirely wiped out by a feud with a red dragon. \r\n[br]He was an accomplished hunter and scout, as are most of his kind, and was just beginning to learn artisan crafts from his family when the aerie was wiped out. His clan had rough relationships with humans as well, with some blaming humans and their relentless expansion for driving dragons into their territory. His extended raven clan still has aeries further to the northwest, but instead of joining them he struck out on his own, seeking a change and to leave behind painful memories of his previous life while also wishing to gain knowledge about the workings of the outside world.",
+    "contentParsed": "Aaracokra Ranger\n<br>Founding Member of Triple A\n<br>He is only about 16 years old, which makes him a mature adult in aaracockra years and his family is from the mountains to the north. The mountains AAA are in now may be around the southern reach of his aerie’s range (the Arcanites). \n<br>He does not speak of it often, but his people, who included some talented but reclusive artisans and connoisseurs of Shiny Things were nearly entirely wiped out by a feud with a red dragon. \n<br>He was an accomplished hunter and scout, as are most of his kind, and was just beginning to learn artisan crafts from his family when the aerie was wiped out. His clan had rough relationships with humans as well, with some blaming humans and their relentless expansion for driving dragons into their territory. His extended raven clan still has aeries further to the northwest, but instead of joining them he struck out on his own, seeking a change and to leave behind painful memories of his previous life while also wishing to gain knowledge about the workings of the outside world.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "skin": {
+            "title": "",
+            "position": "",
+            "content": "Black feathers",
+            "contentParsed": "Black feathers"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "families": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "firstHeldRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "heldItems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "createditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ruledLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "religions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "currentRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "pastRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentsauthored": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentssigned": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicalEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "proses": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedReports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

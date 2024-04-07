@@ -1,0 +1,150 @@
+{
+    "id": "be1054c8-93ef-4e10-8552-092ba0f561e0",
+    "title": "Arcane Ascendants *Book Three*",
+    "slug": "arcane-ascendants-2Abook-three2A-document",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Document",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/arcane-ascendants-2Abook-three2A-document",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-06-09 03:14:22.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "document",
+    "wordcount": 176,
+    "creationDate": {
+        "date": "2021-02-11 00:58:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "7ad17822-e4aa-4cb3-9cee-98de89a5f7a1",
+        "title": "Arcane Ascendants",
+        "slug": "arcane-ascendants-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcane-ascendants-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "[h2]Chewed on by some kind of creature, claws have shredded some of the pages, perhaps to be used as nesting material...[/h2]\r\n\r\nHaving groups of mages in every major city, the Spellweavers began to encourage all who believed in Mystra's teachings or the freedom that arcane magic promised, to perform public rituals to demonstrate that the superstitious old elves had nothing to fear...\r\n...Many rites were performed, especially by the clerics and paladins of Mystra, who impressed the populace by wielding arcane magic, something that no other clergy had done before. They performed coming of age, wedding, atonement, and dedication ceremonies in the name of Mystra. They prepared bodies for departing the mortal realm. They bound large amounts of goods into small gems for long distance shipping, they passed messages, wrote in the sky, contacted other planes of existence... Many of the rituals were already done by the worshipers of Mielikki, Silvanus.. and the other old gods, but with a new flare that the populace was ready to embrace...",
+    "contentParsed": "<h3>Chewed on by some kind of creature, claws have shredded some of the pages, perhaps to be used as nesting material...</h3>\n<span class=\"line-spacer d-block\">&nbsp;</span>\nHaving groups of mages in every major city, the Spellweavers began to encourage all who believed in Mystra&#039;s teachings or the freedom that arcane magic promised, to perform public rituals to demonstrate that the superstitious old elves had nothing to fear...\n...Many rites were performed, especially by the clerics and paladins of Mystra, who impressed the populace by wielding arcane magic, something that no other clergy had done before. They performed coming of age, wedding, atonement, and dedication ceremonies in the name of Mystra. They prepared bodies for departing the mortal realm. They bound large amounts of goods into small gems for long distance shipping, they passed messages, wrote in the sky, contacted other planes of existence... Many of the rituals were already done by the worshipers of Mielikki, Silvanus.. and the other old gods, but with a new flare that the populace was ready to embrace...",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "type": {
+            "title": "",
+            "position": "",
+            "content": "Manuscript, Historical",
+            "contentParsed": "Manuscript, Historical"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentauthors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatorycharacters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatoryorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "id": "937a1d98-7472-414c-acbc-4eada5d44398",
+    "title": "The Fifth Finger",
+    "slug": "the-fifth-finger-rank",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Rank",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/the-fifth-finger-rank",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2020-11-04 16:11:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "rank",
+    "wordcount": 6,
+    "creationDate": {
+        "date": "2020-11-04 16:11:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-04 16:40:35.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 2,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "4d4fcdde-751e-4683-92cf-14e6d009b6cc",
+        "title": "Five Finger Viscounts",
+        "slug": "five-finger-viscounts-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/five-finger-viscounts-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": null,
+    "contentParsed": "",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "leaders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "5d9c6841-8329-4bf0-83d1-3313098e0b6a",
+                    "title": "Five Finger Viscounts",
+                    "slug": "five-finger-viscounts-organization",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/five-finger-viscounts-organization",
+                    "relationshipType": "article",
+                    "type": "organization"
+                }
+            ]
+        },
+        "currentHolders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "pastHolders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedlocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rankformations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

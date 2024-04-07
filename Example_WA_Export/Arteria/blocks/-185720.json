@@ -1,0 +1,26 @@
+{
+    "id": 185720,
+    "name": " ",
+    "template": {
+        "id": 23,
+        "title": "Race",
+        "system": {
+            "id": 1,
+            "title": "Dungeons & Dragons 5e"
+        }
+    },
+    "shared": false,
+    "tags": null,
+    "data": null,
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "url": "http://www.worldanvil.com/w/arteria-adorath"
+    },
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "username": "adorath",
+        "url": "http://www.worldanvil.com/author/adorath"
+    }
+}

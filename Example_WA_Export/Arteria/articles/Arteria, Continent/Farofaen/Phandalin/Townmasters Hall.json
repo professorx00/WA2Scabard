@@ -1,0 +1,269 @@
+{
+    "id": "ffd37671-3bdd-4033-91e0-b9b08fe40be0",
+    "title": "Townmaster's Hall",
+    "slug": "townmaster-s-hall-landmark",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Landmark",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/townmaster-s-hall-landmark",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2020-11-20 21:45:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 850,
+    "excerpt": null,
+    "template": "landmark",
+    "wordcount": 498,
+    "creationDate": {
+        "date": "2020-11-20 21:45:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "0ed2404e-43e2-4751-a09d-bf5a8b629008",
+        "title": "Phandalin",
+        "slug": "phandalin-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/phandalin-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "The townmaster's hall has sturdy stone walls, a pitched\nwooden roof, and a bell tower at the back. Posted on a board\nnext to the front door is a notice written in Common. It reads:\n\"REWARD-Orcs near Wyvern Tor! Those of a mind to face\nthe orc menace should inquire within.\" The notice bears the\ntown's seal and an indecipherable signature.\nPhandalin has no functioning government, but the\ntownsfolk elect someone to serve as town master each\nyear. The townmaster serves as a judge in minor disputes\nand keeps any records that need to be kept. The current\ntown master is a male human banker named Harbin\nWester-a fat, pompous old fool. Completely intimidated\nby the Redbrands, he claims that they're \"just a mercenary\nguild, and not all that much trouble, really.\"\nThe townmaster's hall has a small but serviceable jail in\nthe cellar. The jail consists of two cells, and Harbin carries\nkeys to the cell doors.\nQuest: Ore Trouble. Harbin is looking for someone\nto head east on the Triboar Trail, where travelers have\nreported trouble with a band of orcs near Wyvern Tor.\nHe offers 100 gp to any group that can take care of the\nproblem. If the party pursues this quest, see \"Wyvern\nTor\" (page 35).\nQuest: Finding Cregmaw Castle. After resting at the\nStonehill Inn, Sildar Hallwinter establishes himself at\nthe townmaster's hall. As an agent of the Lords' Alliance,\nhis goal is to bring law and order to Phandalin. As such,\nhe wants to find the lost mine of Wave Echo Cave and\nhelp the Rockseeker brothers put it back into production,\nbelieving that bringing prosperity to the region will help\ncivilize the town.\nSildar also encourages the characters to keep up the\npressure on the Cragmaw goblins. He offers the party\na 500 gp reward if they can locate Cragmaw Castle and\ndefeat or drive off the tribe's chieftain. Sildar suggests the\nparty might find the castle by searching the lands around\nthe Triboar Trail for more raiding parties (see \"Wilderness\nEncounters\" in the \"Triboar Trail\" section of part 3).\nQuest: Finding Iarno. After questioning several locals,\nSildar learns that larno Albrek, a fellow member of the\nLords' Alliance, disappeared while exploring the area\naround Tresendar Manor about two months ago, shortly\nafter arriving in Phandalin. Sildar asks the characters to\ninvestigate the manor and the surrounding area to find\nand bring back larno-or what's left of him, if something\nkilled him. Sildar describes larno as \"a short, darkbearded\nhuman wizard in his thirties.\"\nUnknown to Sildar, larno created the Redbrands,\ninstalled himself as their leader, and took the alias\nGlasstaff to conceal his identity. (The Redbrands call him\nthat because he carries a glass staff.) Once he learns the\ntruth about larno, Sildar expresses a desire to have the\nwizard captured and transported to Neverwinter to face\nthe judgment of a higher authority. Regardless of Iarno's\nfate, Sildar rewards the party with 200 gp for eliminating\nthe Redbrand threat.",
+    "contentParsed": "The townmaster&#039;s hall has sturdy stone walls, a pitched\nwooden roof, and a bell tower at the back. Posted on a board\nnext to the front door is a notice written in Common. It reads:\n&quot;REWARD-Orcs near Wyvern Tor! Those of a mind to face\nthe orc menace should inquire within.&quot; The notice bears the\ntown&#039;s seal and an indecipherable signature.\nPhandalin has no functioning government, but the\ntownsfolk elect someone to serve as town master each\nyear. The townmaster serves as a judge in minor disputes\nand keeps any records that need to be kept. The current\ntown master is a male human banker named Harbin\nWester-a fat, pompous old fool. Completely intimidated\nby the Redbrands, he claims that they&#039;re &quot;just a mercenary\nguild, and not all that much trouble, really.&quot;\nThe townmaster&#039;s hall has a small but serviceable jail in\nthe cellar. The jail consists of two cells, and Harbin carries\nkeys to the cell doors.\nQuest: Ore Trouble. Harbin is looking for someone\nto head east on the Triboar Trail, where travelers have\nreported trouble with a band of orcs near Wyvern Tor.\nHe offers 100 gp to any group that can take care of the\nproblem. If the party pursues this quest, see &quot;Wyvern\nTor&quot; (page 35).\nQuest: Finding Cregmaw Castle. After resting at the\nStonehill Inn, Sildar Hallwinter establishes himself at\nthe townmaster&#039;s hall. As an agent of the Lords&#039; Alliance,\nhis goal is to bring law and order to Phandalin. As such,\nhe wants to find the lost mine of Wave Echo Cave and\nhelp the Rockseeker brothers put it back into production,\nbelieving that bringing prosperity to the region will help\ncivilize the town.\nSildar also encourages the characters to keep up the\npressure on the Cragmaw goblins. He offers the party\na 500 gp reward if they can locate Cragmaw Castle and\ndefeat or drive off the tribe&#039;s chieftain. Sildar suggests the\nparty might find the castle by searching the lands around\nthe Triboar Trail for more raiding parties (see &quot;Wilderness\nEncounters&quot; in the &quot;Triboar Trail&quot; section of part 3).\nQuest: Finding Iarno. After questioning several locals,\nSildar learns that larno Albrek, a fellow member of the\nLords&#039; Alliance, disappeared while exploring the area\naround Tresendar Manor about two months ago, shortly\nafter arriving in Phandalin. Sildar asks the characters to\ninvestigate the manor and the surrounding area to find\nand bring back larno-or what&#039;s left of him, if something\nkilled him. Sildar describes larno as &quot;a short, darkbearded\nhuman wizard in his thirties.&quot;\nUnknown to Sildar, larno created the Redbrands,\ninstalled himself as their leader, and took the alias\nGlasstaff to conceal his identity. (The Redbrands call him\nthat because he carries a glass staff.) Once he learns the\ntruth about larno, Sildar expresses a desire to have the\nwizard captured and transported to Neverwinter to face\nthe judgment of a higher authority. Regardless of Iarno&#039;s\nfate, Sildar rewards the party with 200 gp for eliminating\nthe Redbrand threat.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

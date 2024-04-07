@@ -1,0 +1,169 @@
+{
+    "id": "3c7e589a-9abf-4f7e-8519-d77a7b9bf831",
+    "title": "Rindel Oakenheart",
+    "slug": "rindel-oakenheart-myth",
+    "state": "private",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Myth",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/rindel-oakenheart-myth",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-04-19 21:16:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "myth",
+    "wordcount": 105,
+    "creationDate": {
+        "date": "2023-04-19 21:16:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "7ad17822-e4aa-4cb3-9cee-98de89a5f7a1",
+        "title": "Arcane Ascendants",
+        "slug": "arcane-ascendants-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arcane-ascendants-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Elf\nWarlock\nNecromancy\n\n Right hand to Fyril and Scarlett. The whip, enforcer. \"Haruman\" in Descent into Avernus. Led the paladins of Mystra, punishing druidic magic, those who did not embrace the arcane. People did not say his name aloud for fear of bringing him down on an entire village. Used backstabbers, informers, snitches to great effect.\n\nIn avernus? Assassinated after revolution? Shipwreck while chasing elves? Exploring the western ocean? Not kraken, still under the ocean as a wight? lich?\n\nTall slender, coated in elegant platemail, hands in front of him holding a mace, its head on the ground, whip* coiled on his belt.",
+    "contentParsed": "Elf\nWarlock\nNecromancy\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\n Right hand to Fyril and Scarlett. The whip, enforcer. &quot;Haruman&quot; in Descent into Avernus. Led the paladins of Mystra, punishing druidic magic, those who did not embrace the arcane. People did not say his name aloud for fear of bringing him down on an entire village. Used backstabbers, informers, snitches to great effect.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nIn avernus? Assassinated after revolution? Shipwreck while chasing elves? Exploring the western ocean? Not kraken, still under the ocean as a wight? lich?\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nTall slender, coated in elegant platemail, hands in front of him holding a mace, its head on the ground, whip* coiled on his belt.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

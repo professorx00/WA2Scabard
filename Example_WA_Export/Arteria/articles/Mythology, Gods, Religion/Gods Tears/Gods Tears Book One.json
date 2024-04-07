@@ -1,0 +1,154 @@
+{
+    "id": "330fac5c-3d45-46cc-a779-ea39695bfe04",
+    "title": "God's Tears *Book One*",
+    "slug": "god-s-tears-2Abook-one2A-document",
+    "state": "public",
+    "isWip": false,
+    "isDraft": false,
+    "entityClass": "Document",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/god-s-tears-2Abook-one2A-document",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-06-20 14:10:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "document",
+    "wordcount": 448,
+    "creationDate": {
+        "date": "2021-06-20 01:57:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2021-06-20 04:29:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 104,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "cc7814eb-7a9c-489c-b197-a26a45e6bc97",
+        "title": "God's Tears",
+        "slug": "god27s-tears-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/god27s-tears-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "[h1]The book[/h1]\r\nis very old, very dusty, there are ink smudges, a few circles left from misplaced mugs. Much of the text is hard to read.\r\nOpening the cover, there are more or less two sections of decipherable text. Upon closer inspection the first section appears to be a collection of papers not included in binding of the original (perhaps stuffed in separately by the owner?). This section is in the practiced, methodical handwriting (if a bit rushed) of a scribe copying text for sale.. it starts out clean but after the first page, they cling together and it deteriorates rapidly.\r\n[br]\r\n[quote]\r\nFound several decades before the spellweavers... the God's Tears are said to have fueled their glorious ascension. The intent behind their creation is widely debated, ... some romantics may argue they are literally tears of sadness, or perhaps tears of love and happiness, the more sound of mind argue the name is based solely on their bright blue coloration and their occasionally droplet shaped appearance. While neither priests nor bards, nor scholars can agree what inspired the creation of the God's Tears and their gifting to the world. whether benevolent, malicious or some godly event, most of the common folk see the event in a positive light or even as a grand omen; a signal of the righteousness of the Arcane...It cannot be denied, even so far in the past, that their power was immense... \r\n[br]\r\n...steadily declined... \r\n[br]\r\n...symbols of wealth, station, power...\r\n[br]\r\n...still of interest to collectors... periodic resurgence...\r\n[br]\r\n...what follows is a discussion... ...innate properties... \r\n[br]\r\n...stores energy... dangerous if... discharged.. exposed to... fragile if...[/quote]\r\n\r\nThe next section is in a flowing cursive, business like, but not without character. Almost like a ship's log.\r\n\r\n[quote]\r\n\r\n3rd of the Willow Moon: Expanding mining operations. Winter was harsh, but made traversing the swamp easier. \r\n[br]\r\n12th of the Wil... ...: First truly warm day... Still hopeful.\r\n[br]\r\n1... ... the Willow Moon: Glad to have moved operations out of the swamp. A wretched place.\r\n[br]\r\n20th of the Willow Moon: Lost Asprada and Qirelle in... ...\r\n[br]\r\n9th of the Haw... ...Moon: Expanding... ...another mine. Need to... ...God's Tears before the other miners.\r\n[br]\r\n17th of the Hawthorn Moon: Have found the silver ash... ...is promising....\r\n[br]\r\n24th... ...Hawthorn Mo...: Lost Korder down... .... Working long hours is taking its toll.\r\n[br]\r\n26th of the Hawthorn Moon: We may have found the cavern the... ...were talking about. Perhaps we can find a way down. Looks enormous.\r\n[br]1st... ...Oak Moon: The switchbacks collapsed. Lost Etgar. No way down here. May... ...cut our loses. Make a deal?\r\n[br][/quote]",
+    "contentParsed": "<h2>The book</h2>\nis very old, very dusty, there are ink smudges, a few circles left from misplaced mugs. Much of the text is hard to read.\nOpening the cover, there are more or less two sections of decipherable text. Upon closer inspection the first section appears to be a collection of papers not included in binding of the original (perhaps stuffed in separately by the owner?). This section is in the practiced, methodical handwriting (if a bit rushed) of a scribe copying text for sale.. it starts out clean but after the first page, they cling together and it deteriorates rapidly.\n<br>\n<blockquote class=\"visibility-toggler\" id=\"a0306e78fef1ced408f6572492033e11\">\nFound several decades before the spellweavers... the God&#039;s Tears are said to have fueled their glorious ascension. The intent behind their creation is widely debated, ... some romantics may argue they are literally tears of sadness, or perhaps tears of love and happiness, the more sound of mind argue the name is based solely on their bright blue coloration and their occasionally droplet shaped appearance. While neither priests nor bards, nor scholars can agree what inspired the creation of the God&#039;s Tears and their gifting to the world. whether benevolent, malicious or some godly event, most of the common folk see the event in a positive light or even as a grand omen; a signal of the righteousness of the Arcane...It cannot be denied, even so far in the past, that their power was immense... \n<br>\n...steadily declined... \n<br>\n...symbols of wealth, station, power...\n<br>\n...still of interest to collectors... periodic resurgence...\n<br>\n...what follows is a discussion... ...innate properties... \n<br>\n...stores energy... dangerous if... discharged.. exposed to... fragile if...</blockquote>\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe next section is in a flowing cursive, business like, but not without character. Almost like a ship&#039;s log.\n<span class=\"line-spacer d-block\">&nbsp;</span>\n<blockquote class=\"visibility-toggler\" id=\"01d021119270478e5d851533e1cc6df4\">\n<span class=\"line-spacer d-block\">&nbsp;</span>\n3rd of the Willow Moon: Expanding mining operations. Winter was harsh, but made traversing the swamp easier. \n<br>\n12th of the Wil... ...: First truly warm day... Still hopeful.\n<br>\n1... ... the Willow Moon: Glad to have moved operations out of the swamp. A wretched place.\n<br>\n20th of the Willow Moon: Lost Asprada and Qirelle in... ...\n<br>\n9th of the Haw... ...Moon: Expanding... ...another mine. Need to... ...God&#039;s Tears before the other miners.\n<br>\n17th of the Hawthorn Moon: Have found the silver ash... ...is promising....\n<br>\n24th... ...Hawthorn Mo...: Lost Korder down... .... Working long hours is taking its toll.\n<br>\n26th of the Hawthorn Moon: We may have found the cavern the... ...were talking about. Perhaps we can find a way down. Looks enormous.\n<br>1st... ...Oak Moon: The switchbacks collapsed. Lost Etgar. No way down here. May... ...cut our loses. Make a deal?\n<br></blockquote>",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "type": {
+            "title": "",
+            "position": "",
+            "content": "Journal, Personal",
+            "contentParsed": "Journal, Personal"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentauthors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatorycharacters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatoryorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

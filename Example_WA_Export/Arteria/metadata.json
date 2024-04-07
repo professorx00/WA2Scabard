@@ -1,0 +1,33 @@
+{
+    "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+    "name": "Arteria",
+    "subtitle": "Home of Allied Adventurer Associates",
+    "locale": "en",
+    "description": "In ages past the world of Arteria was ruled by elves and their druidic magic, holding back the advancement of the arcane arts. But with the fall of the druids, and fueled by Gods' Tears, stones found deep within the earth, arcane magic is flourishing. Giving rise to unprecedented wealth and power.\r\n\r\nAs the world's fair approaches, which promises the unveiling of new magics never before seen... The world is not entirely as it seems. And things start to unravel.\r\n\r\n[youtube:https://youtube.com/watch?v=wLlovxa3VJ0]",
+    "description_parsed": "In ages past the world of Arteria was ruled by elves and their druidic magic, holding back the advancement of the arcane arts. But with the fall of the druids, and fueled by Gods&#039; Tears, stones found deep within the earth, arcane magic is flourishing. Giving rise to unprecedented wealth and power.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nAs the world&#039;s fair approaches, which promises the unveiling of new magics never before seen... The world is not entirely as it seems. And things start to unravel.\n<span class=\"line-spacer d-block\">&nbsp;</span>\n<iframe style=\"min-height:250px;\" width=\"100%\" src=\"https://www.youtube.com/embed/wLlovxa3VJ0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+    "display_css": null,
+    "display_panel_css": null,
+    "tags": "",
+    "slug": "arteria-adorath",
+    "url": "http://www.worldanvil.com/w/arteria-adorath",
+    "copyright": null,
+    "world_sidebar_content": null,
+    "global_announcement": null,
+    "global_header": null,
+    "global_sidebar_footer": null,
+    "global_article_introduction": null,
+    "count_followers": 0,
+    "count_articles": 183,
+    "count_maps": 11,
+    "count_timelines": 3,
+    "theme": 13,
+    "cover": {
+        "id": 1952401,
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg"
+    },
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "username": "adorath",
+        "url": "http://www.worldanvil.com/author/adorath"
+    }
+}

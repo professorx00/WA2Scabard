@@ -1,0 +1,133 @@
+{
+    "id": "a68b2c6d-0032-4346-b7e2-7ba5d9544f87",
+    "title": "To be sung in a tavern",
+    "slug": "to-be-sung-in-a-tavern-article",
+    "state": "private",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Article",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/to-be-sung-in-a-tavern-article",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2020-11-19 02:48:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "article",
+    "wordcount": 374,
+    "creationDate": {
+        "date": "2020-11-19 02:48:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-29 20:10:47.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "ea93f90e-b0df-401d-a498-8ff8c5425c47",
+        "title": "Taverns",
+        "slug": "taverns-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/taverns-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "\"Diggy Diggy Hole\"\n(originally by Yogscast)\n\nBrothers of the mine rejoice!\n(Swing, swing, swing with me!)\nRaise your pick and raise your voice!\n(Sing, sing, sing with me!)\n\nDown and down into the deep\nWho knows what we'll find beneath?\nDiamonds, rubies, gold, and more\nHidden in the mountain store\n\nBorn underground\nSuckled from a teat of stone\nRaised in the dark\nThe safety of our mountain home\n\nSkin made of iron\nSteel in our bones\nTo dig and dig makes us free\nCome on, brothers, sing with me!\n\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, digging a hole\n\nThe sunlight will not reach this low\n(Deep, deep in the mine)\nNever seen the blue moon glow\n(Dwarves won't fly so high)\n\nFill a glass and down some mead\nStuff your bellies at the feast!\nStumble home and fall asleep\nDreaming in our mountain keep\n\nBorn underground\nGrown inside a rocky womb\nThe Earth is our cradle\nThe mountain shall become our tomb\n\nFace us on the battlefield\nYou will meet your doom\nWe do not fear what lies beneath\nWe can never dig too deep\n\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, digging a hole\n\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, digging a hole\n\nBorn underground\nSuckled from a teat of stone\nRaised in the dark\nThe safety of our mountain home\n\nSkin made of iron\nSteel in our bones\nTo dig and dig makes us free\nCome on, brothers, sing with me!\n\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, digging a hole\n\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I'm digging a hole\nDiggy diggy hole, digging a hole ",
+    "contentParsed": "&quot;Diggy Diggy Hole&quot;\n(originally by Yogscast)\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBrothers of the mine rejoice!\n(Swing, swing, swing with me!)\nRaise your pick and raise your voice!\n(Sing, sing, sing with me!)\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nDown and down into the deep\nWho knows what we&#039;ll find beneath?\nDiamonds, rubies, gold, and more\nHidden in the mountain store\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBorn underground\nSuckled from a teat of stone\nRaised in the dark\nThe safety of our mountain home\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nSkin made of iron\nSteel in our bones\nTo dig and dig makes us free\nCome on, brothers, sing with me!\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, digging a hole\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThe sunlight will not reach this low\n(Deep, deep in the mine)\nNever seen the blue moon glow\n(Dwarves won&#039;t fly so high)\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nFill a glass and down some mead\nStuff your bellies at the feast!\nStumble home and fall asleep\nDreaming in our mountain keep\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBorn underground\nGrown inside a rocky womb\nThe Earth is our cradle\nThe mountain shall become our tomb\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nFace us on the battlefield\nYou will meet your doom\nWe do not fear what lies beneath\nWe can never dig too deep\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, digging a hole\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, digging a hole\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBorn underground\nSuckled from a teat of stone\nRaised in the dark\nThe safety of our mountain home\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nSkin made of iron\nSteel in our bones\nTo dig and dig makes us free\nCome on, brothers, sing with me!\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, digging a hole\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, diggy diggy hole\nI am a dwarf and I&#039;m digging a hole\nDiggy diggy hole, digging a hole ",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "id": "e0d12efe-19d8-46f2-b6cf-8ebb3f6ac0f3",
+    "title": "Stonehill Inn",
+    "slug": "stonehill-inn-landmark",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Landmark",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/stonehill-inn-landmark",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2020-11-20 21:41:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 860,
+    "excerpt": null,
+    "template": "landmark",
+    "wordcount": 517,
+    "creationDate": {
+        "date": "2020-11-20 21:40:13.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "0ed2404e-43e2-4751-a09d-bf5a8b629008",
+        "title": "Phandalin",
+        "slug": "phandalin-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/phandalin-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "In the center of town stands a large, newly built roadhouse\r\nof fieldstone and rough-hewn timbers. The common room\r\nis filled with locals nursing mugs of ale or cider, all of them\r\neyeing you with curiosity.\r\nThis modest inn has six rooms for rent (Sildar Hallwinter\r\ntakes one). If the characters decide to stay here, see \"Food,\r\nDrink, and Lodging\" in the rulebook for pricing. (The\r\ncharacters' other alternative for lodging is to camp outside\r\nthe town, or to persuade a farmer such as Daran Edermath\r\nor Qelline Alderleaf to let them sleep in a hayloft.)\r\nThe proprietor is a short, friendly young human male\r\nnamed Toblen Stonehill. Toblen is a native of the town of\r\nTriboar to the east. He came to Phandalin to prospect,\r\nbut soon realized that he knew a lot more about running\r\nan inn than he did about mining. The new town offered\r\na good opportunity to become established. Toblen is\r\nupset that the Redbrands have been allowed to terrorize\r\nthe town, and that Harbin Wester, the townmaster, has\r\ndone nothing to curtail them. However, he tries not to\r\nstir up trouble for fear that the Redbrands might retaliate\r\nagainst his wife and children.\r\nRumors. Spending a little time in the common\r\nroom and chatting up the townspeople can provide the\r\ncharacters with a number of good leads to explore in and\r\naround town. NPCs present in the Stonehill Inn and the\r\nrumors they pass on include:\r\nNarth, an old farmer: \"Sister Garaele, who oversees the\r\nShrine of Luck, recently left town for a few days, then\r\nreturned wounded and exhausted.\" (See the \"Shrine of\r\nLuck\" section for more information.)\r\nElsa, a gossipy barmaid: \"Daran Edermath, the orchard\r\nkeeper, is a former adventurer.\" (See the \"Ederrnath\r\nOrchard\" section for more information.)\r\nLanar, a miner: \"Ore raiders have been seen on the\r\neast end of Triboar Trail. The town master is looking for\r\nsomeone to run them off.\" (See the \"Townrnaster's Hall\"\r\nsection for more information.)\r\nTrilena, the innkeeper's wife: \"Thcl Dendrar, a local\r\nwoodcarver, stood up to the Redbrands a ten day ago\r\nwhen they came by his shop and leered at his wife. The\r\nruffians murdered him. Several townsfolk saw it happen.\r\nThe Redbrands grabbed his body, and now his wife,\r\ndaughter, and son have gone missing too.\" (Unknown to Trilena and the other townsfolk, the Redbrands took\r\nThel's wife and children to their secret hideout.)\r\n• Pip, Toblen's young son: \"Qelline Alderleaf's son\r\nCarp said he found a secret tunnel in the woods, but\r\nRedbrands almost caught him.\" (See the \"Alderleaf\r\nFarm\" section for more information.)\r\n• Freda, a weaver: \"The Redbrands hassle every business\r\nin town, except for the Phandalin Miner's Exchange.\r\nThey don't want trouble with Halia Thornton, who runs\r\nit.\" (See the \"Phandalin Miner's Exchange\" section for\r\nmore information.)\r\nThese leads should point the characters toward\r\nopportunities for adventure in and around Phandalin. In\r\naddition, any NPC at the inn can tell the characters that\r\nthe Redbrands frequent the Sleeping Giant tap house at\r\nthe east end of town-and that the ruffians are trouble.",
+    "contentParsed": "In the center of town stands a large, newly built roadhouse\nof fieldstone and rough-hewn timbers. The common room\nis filled with locals nursing mugs of ale or cider, all of them\neyeing you with curiosity.\nThis modest inn has six rooms for rent (Sildar Hallwinter\ntakes one). If the characters decide to stay here, see &quot;Food,\nDrink, and Lodging&quot; in the rulebook for pricing. (The\ncharacters&#039; other alternative for lodging is to camp outside\nthe town, or to persuade a farmer such as Daran Edermath\nor Qelline Alderleaf to let them sleep in a hayloft.)\nThe proprietor is a short, friendly young human male\nnamed Toblen Stonehill. Toblen is a native of the town of\nTriboar to the east. He came to Phandalin to prospect,\nbut soon realized that he knew a lot more about running\nan inn than he did about mining. The new town offered\na good opportunity to become established. Toblen is\nupset that the Redbrands have been allowed to terrorize\nthe town, and that Harbin Wester, the townmaster, has\ndone nothing to curtail them. However, he tries not to\nstir up trouble for fear that the Redbrands might retaliate\nagainst his wife and children.\nRumors. Spending a little time in the common\nroom and chatting up the townspeople can provide the\ncharacters with a number of good leads to explore in and\naround town. NPCs present in the Stonehill Inn and the\nrumors they pass on include:\nNarth, an old farmer: &quot;Sister Garaele, who oversees the\nShrine of Luck, recently left town for a few days, then\nreturned wounded and exhausted.&quot; (See the &quot;Shrine of\nLuck&quot; section for more information.)\nElsa, a gossipy barmaid: &quot;Daran Edermath, the orchard\nkeeper, is a former adventurer.&quot; (See the &quot;Ederrnath\nOrchard&quot; section for more information.)\nLanar, a miner: &quot;Ore raiders have been seen on the\neast end of Triboar Trail. The town master is looking for\nsomeone to run them off.&quot; (See the &quot;Townrnaster&#039;s Hall&quot;\nsection for more information.)\nTrilena, the innkeeper&#039;s wife: &quot;Thcl Dendrar, a local\nwoodcarver, stood up to the Redbrands a ten day ago\nwhen they came by his shop and leered at his wife. The\nruffians murdered him. Several townsfolk saw it happen.\nThe Redbrands grabbed his body, and now his wife,\ndaughter, and son have gone missing too.&quot; (Unknown to Trilena and the other townsfolk, the Redbrands took\nThel&#039;s wife and children to their secret hideout.)\n• Pip, Toblen&#039;s young son: &quot;Qelline Alderleaf&#039;s son\nCarp said he found a secret tunnel in the woods, but\nRedbrands almost caught him.&quot; (See the &quot;Alderleaf\nFarm&quot; section for more information.)\n• Freda, a weaver: &quot;The Redbrands hassle every business\nin town, except for the Phandalin Miner&#039;s Exchange.\nThey don&#039;t want trouble with Halia Thornton, who runs\nit.&quot; (See the &quot;Phandalin Miner&#039;s Exchange&quot; section for\nmore information.)\nThese leads should point the characters toward\nopportunities for adventure in and around Phandalin. In\naddition, any NPC at the inn can tell the characters that\nthe Redbrands frequent the Sleeping Giant tap house at\nthe east end of town-and that the ruffians are trouble.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "type": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": "5379c31f-6a5d-47db-8b93-f96c9df12e86",
+                "title": "Inn",
+                "type": "locationtype",
+                "relationshipType": "",
+                "state": "null"
+            }
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

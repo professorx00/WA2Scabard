@@ -1,0 +1,269 @@
+{
+    "id": "23f9ce84-979a-45a7-8fc1-bd1623b7ed74",
+    "title": "The Rabid Shovel",
+    "slug": "the-rabid-shovel-landmark-1",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Landmark",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/the-rabid-shovel-landmark-1",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-11-07 15:55:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "landmark",
+    "wordcount": 792,
+    "creationDate": {
+        "date": "2021-11-07 15:55:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "747f10b1-b6e9-4c51-873c-bfa4a76a2604",
+        "title": "Taverns",
+        "slug": "taverns-category-1",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/taverns-category-1"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "The Rabid Shovel is owned by a widowed man and his female business partner. One of the owners is a member of a race that is common for the area, while the other owner's race is exotic in the area. One of the owners has no hidden secrets or unusual quirks, but the other suffers from mental illness. Before they owned the tavern, both owners worked there under the previous owner. The inspiration for the tavern's name was a local legend. It is a tavern of wealthy quality, and its main draw is its amateur open-stage night.\n\nOne of the owners of The Grappled Beech tends the bar because she enjoys doing the job herself. Her disposition is generally described as extremely reserved. She is truly attractive with brown skin and bright hair in a long, tangled style. Physically, she is very tall.\n\nOn a typical night, the clientele at The Grappled Beech can be described as subdued. On this occasion, there are around ten other people currently in the tavern. Some of them are playing a game of dice. At a table almost hidden in shadow, there is a paranoid looking figure. Their family was murdered by bandits/goblins/kobolds or some CR-appropriate threat, and they need help getting their revenge.\n\nThe rooms for rent at The Grappled Beech are wonderfully tiny and acutely dingy. There are currently five rooms available for rent. The cost for a night's stay is 4 sp, 8 cp. If the party spends the night in the tavern, sounds of cheering, shouting, and struggling echo from the basement of the tavern. Additionally, roars/howls and the rattle of chains can be heard faintly coming from below the tavern.\n\nLawful Remorhaz Shiraz\nAn imported red wine with flavors that are flat, deep, and herbaceous.\nBottle price: 4 gp, 9 sp\nGlass price: 1 gp, 6 sp\n\nWinged Mermaid Pinot Noir\nAn imported red wine with flavors that are lean and mellow.\nBottle price: 4 gp, 5 sp\nGlass price: 1 gp, 5 sp\n\nPriceless Giant Sauvignon Blanc\nA locally produced white wine with flavors that are bitter and dry.\nBottle price: 2 gp, 5 sp\nGlass price: 8 sp, 6 cp\n\nGlass Nail Merlot\nA locally produced red wine that is described as lean and flat.\nBottle price: 2 gp, 6 sp\nGlass price: 8 sp, 7 cp\n\nHouse Porter\n5.23% ABV\nA house-brewed dark amber porter. Described as a dry porter with a bitter finish.\nGallon price: 3 sp, 6 cp\nPint price: 7 cp\n\nHouse Ale\n4.5% ABV\nA house-brewed golden golden ale. Described as a dry golden ale with a rich finish.\nGallon price: 4 sp\nPint price: 8 cp\n\nStunning Island Malt\n5.91% ABV\nA microbrewed medium brown malt. Described as a pleasantly bitter malt with a creamy finish.\nGallon price: 4 sp, 6 cp\nPint price: 9 cp\n\nSleeping Sack Ale\n5.82% ABV\nA microbrewed dark amber golden ale. Described as a pleasantly bitter golden ale with an aftertaste of barley and a pleasant finish.\nGallon price: 4 sp, 9 cp\nPint price: 9 cp\n\nHouse Vodka\nA house-made rice vodka.\nBottle price: 1 gp, 7 sp\nShot price: 2 sp, 9 cp\n\nHouse Vodka\nA house-made potato vodka.\nBottle price: 1 gp, 7 sp\nShot price: 2 sp, 9 cp\n\nHouse Vodka\nA house-made molasses vodka.\nBottle price: 1 gp, 7 sp\nShot price: 2 sp, 9 cp\n\nHouse Brandy\nA house-made cherry brandy.\nBottle price: 1 gp, 9 sp\nShot price: 3 sp, 1 cp\n\nTwisted Cherry Vodka\nAn imported rice vodka.\nBottle price: 3 gp, 3 sp\nShot price: 5 sp, 5 cp\n\nDeep-Fried Sweet Potato Wedges\nSweet potato wedges fried in butter. Served with a honey-based sauce.\n4 sp, 7 cp\n\nCrammed Red Peppers\nA platter of red peppers crammed with a medley of herbs and onion.\n5 sp\n\nJerky Strips\nA basket of several strips of turkey jerky.\n2 sp\n\nLoaded Lettuce Bowls\nA platter of lettuce bowls loaded with a concoction of onion, garlic, and cheese.\n5 sp, 9 cp\n\nPork Soup\nA rich soup with cubes of pork, rice, and onions.\n3 sp, 6 cp\n\nBlackened Rabbit and Romaine Salad\nLeaves of romaine coated in a cider vinegar dressing and tossed with carrots. Topped with blackened rabbit and slivered almonds.\n3 sp, 5 cp\n\nRed Lettuce Salad\nLeaves of red lettuce coated in a cider vinegar dressing and tossed with tomatoes.\n3 sp, 5 cp\n\nBlackened Venison\nBlackened strips of venison in a cream sauce served with quinoa with a serving of mushrooms and green peppers.\n7 sp\n\nBlackened Frog\nBlackened cubes of frog in white sauce on a bed of noodles and beets.\n6 sp, 9 cp\n\nPan-fried Duck\nPan-fried duck in a cream sauce served over bread and red beans.\n7 sp, 1 cp\n\nGrilled Beef\nGrilled beef in a cream sauce served over quinoa and a helping of cooked greens and red beans.\n6 sp, 9 cp\nThe meat in this dish is undercooked to the point of being dangerous to consume.\n\nConsuming raw or undercooked meats, poultry, seafood, shellfish or eggs may require a Constitution saving throw.",
+    "contentParsed": "The Rabid Shovel is owned by a widowed man and his female business partner. One of the owners is a member of a race that is common for the area, while the other owner&#039;s race is exotic in the area. One of the owners has no hidden secrets or unusual quirks, but the other suffers from mental illness. Before they owned the tavern, both owners worked there under the previous owner. The inspiration for the tavern&#039;s name was a local legend. It is a tavern of wealthy quality, and its main draw is its amateur open-stage night.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nOne of the owners of The Grappled Beech tends the bar because she enjoys doing the job herself. Her disposition is generally described as extremely reserved. She is truly attractive with brown skin and bright hair in a long, tangled style. Physically, she is very tall.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nOn a typical night, the clientele at The Grappled Beech can be described as subdued. On this occasion, there are around ten other people currently in the tavern. Some of them are playing a game of dice. At a table almost hidden in shadow, there is a paranoid looking figure. Their family was murdered by bandits/goblins/kobolds or some CR-appropriate threat, and they need help getting their revenge.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThe rooms for rent at The Grappled Beech are wonderfully tiny and acutely dingy. There are currently five rooms available for rent. The cost for a night&#039;s stay is 4 sp, 8 cp. If the party spends the night in the tavern, sounds of cheering, shouting, and struggling echo from the basement of the tavern. Additionally, roars/howls and the rattle of chains can be heard faintly coming from below the tavern.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nLawful Remorhaz Shiraz\nAn imported red wine with flavors that are flat, deep, and herbaceous.\nBottle price: 4 gp, 9 sp\nGlass price: 1 gp, 6 sp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nWinged Mermaid Pinot Noir\nAn imported red wine with flavors that are lean and mellow.\nBottle price: 4 gp, 5 sp\nGlass price: 1 gp, 5 sp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nPriceless Giant Sauvignon Blanc\nA locally produced white wine with flavors that are bitter and dry.\nBottle price: 2 gp, 5 sp\nGlass price: 8 sp, 6 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nGlass Nail Merlot\nA locally produced red wine that is described as lean and flat.\nBottle price: 2 gp, 6 sp\nGlass price: 8 sp, 7 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHouse Porter\n5.23% ABV\nA house-brewed dark amber porter. Described as a dry porter with a bitter finish.\nGallon price: 3 sp, 6 cp\nPint price: 7 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHouse Ale\n4.5% ABV\nA house-brewed golden golden ale. Described as a dry golden ale with a rich finish.\nGallon price: 4 sp\nPint price: 8 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nStunning Island Malt\n5.91% ABV\nA microbrewed medium brown malt. Described as a pleasantly bitter malt with a creamy finish.\nGallon price: 4 sp, 6 cp\nPint price: 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nSleeping Sack Ale\n5.82% ABV\nA microbrewed dark amber golden ale. Described as a pleasantly bitter golden ale with an aftertaste of barley and a pleasant finish.\nGallon price: 4 sp, 9 cp\nPint price: 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHouse Vodka\nA house-made rice vodka.\nBottle price: 1 gp, 7 sp\nShot price: 2 sp, 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHouse Vodka\nA house-made potato vodka.\nBottle price: 1 gp, 7 sp\nShot price: 2 sp, 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHouse Vodka\nA house-made molasses vodka.\nBottle price: 1 gp, 7 sp\nShot price: 2 sp, 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHouse Brandy\nA house-made cherry brandy.\nBottle price: 1 gp, 9 sp\nShot price: 3 sp, 1 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nTwisted Cherry Vodka\nAn imported rice vodka.\nBottle price: 3 gp, 3 sp\nShot price: 5 sp, 5 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nDeep-Fried Sweet Potato Wedges\nSweet potato wedges fried in butter. Served with a honey-based sauce.\n4 sp, 7 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nCrammed Red Peppers\nA platter of red peppers crammed with a medley of herbs and onion.\n5 sp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nJerky Strips\nA basket of several strips of turkey jerky.\n2 sp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nLoaded Lettuce Bowls\nA platter of lettuce bowls loaded with a concoction of onion, garlic, and cheese.\n5 sp, 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nPork Soup\nA rich soup with cubes of pork, rice, and onions.\n3 sp, 6 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBlackened Rabbit and Romaine Salad\nLeaves of romaine coated in a cider vinegar dressing and tossed with carrots. Topped with blackened rabbit and slivered almonds.\n3 sp, 5 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nRed Lettuce Salad\nLeaves of red lettuce coated in a cider vinegar dressing and tossed with tomatoes.\n3 sp, 5 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBlackened Venison\nBlackened strips of venison in a cream sauce served with quinoa with a serving of mushrooms and green peppers.\n7 sp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nBlackened Frog\nBlackened cubes of frog in white sauce on a bed of noodles and beets.\n6 sp, 9 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nPan-fried Duck\nPan-fried duck in a cream sauce served over bread and red beans.\n7 sp, 1 cp\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nGrilled Beef\nGrilled beef in a cream sauce served over quinoa and a helping of cooked greens and red beans.\n6 sp, 9 cp\nThe meat in this dish is undercooked to the point of being dangerous to consume.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nConsuming raw or undercooked meats, poultry, seafood, shellfish or eggs may require a Constitution saving throw.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "id": "aae769b9-9bca-4fb2-91ad-dfec46d547be",
+    "title": "Alderleaf Farm",
+    "slug": "alderleaf-farm-landmark",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Landmark",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/alderleaf-farm-landmark",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-01-22 19:32:57.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 870,
+    "excerpt": null,
+    "template": "landmark",
+    "wordcount": 274,
+    "creationDate": {
+        "date": "2020-11-20 21:44:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "0ed2404e-43e2-4751-a09d-bf5a8b629008",
+        "title": "Phandalin",
+        "slug": "phandalin-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/phandalin-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "ALDERLEAF FARM\r\n[br]\r\n[br]Cale and Raymond Alderleaf live in the farm north of Phandalin, they have been able to keep the blight at the edges of their farm by grazing their field primarily with goats and some pigs, if the players take too long, or come back they find that the goats have gotten sick and are starting to die.\r\n[br]\r\n[br]Quest: Reidoth the Druid. Qelline is a longtime friend\r\nof a druid named Reidoth. If she figures out that the\r\ncharacters are looking for specific sites in the area, such\r\nas the Kobold Hideout, The Dragon's Cave, or Agatha's Lair, she suggests that\r\nthey visit Reidoth and ask for his help, \"since there's not an\r\ninch of the land he doesn't know.\" She tells the characters\r\nthat Reidoth recently set out for the ruins of a town called\r\nThundertree, just west of the Neverwinter Wood. The\r\nruins are about fifty miles northwest of Phandalin, and\r\nshe provides directions so the characters can easily find\r\nthe place. If the party pursues this quest, see \"Ruins of\r\nThundertree\" (page 30).\r\n[br]\r\n[br]\r\n[br]\r\n[br]\r\nCarp's Story. Qelline's son, Carp, is a spirited and\r\nprecocious human lad of ten years. He is enchanted by the\r\nidea of being an adventurer and says that he was playing\r\nin the woods near Tresendar Manor when he found a\r\nsecret tunnel in a thicket. A couple of \"big ugly lizards\"\r\ncame out of the tunnel when he was there.\r\nThey didn't see him, but it was close.\r\nHe can take the characters to the tunnel\r\nor provide them with directions to the location.",
+    "contentParsed": "ALDERLEAF FARM\n<br>\n<br>Cale and Raymond Alderleaf live in the farm north of Phandalin, they have been able to keep the blight at the edges of their farm by grazing their field primarily with goats and some pigs, if the players take too long, or come back they find that the goats have gotten sick and are starting to die.\n<br>\n<br>Quest: Reidoth the Druid. Qelline is a longtime friend\nof a druid named Reidoth. If she figures out that the\ncharacters are looking for specific sites in the area, such\nas the Kobold Hideout, The Dragon&#039;s Cave, or Agatha&#039;s Lair, she suggests that\nthey visit Reidoth and ask for his help, &quot;since there&#039;s not an\ninch of the land he doesn&#039;t know.&quot; She tells the characters\nthat Reidoth recently set out for the ruins of a town called\nThundertree, just west of the Neverwinter Wood. The\nruins are about fifty miles northwest of Phandalin, and\nshe provides directions so the characters can easily find\nthe place. If the party pursues this quest, see &quot;Ruins of\nThundertree&quot; (page 30).\n<br>\n<br>\n<br>\n<br>\nCarp&#039;s Story. Qelline&#039;s son, Carp, is a spirited and\nprecocious human lad of ten years. He is enchanted by the\nidea of being an adventurer and says that he was playing\nin the woods near Tresendar Manor when he found a\nsecret tunnel in a thicket. A couple of &quot;big ugly lizards&quot;\ncame out of the tunnel when he was there.\nThey didn&#039;t see him, but it was close.\nHe can take the characters to the tunnel\nor provide them with directions to the location.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rituals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "claimedCapitals": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "includedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportprimarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reportsecondarylocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conflicts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "characters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehiclesPresent": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "additionalRulers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contenders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "connectedRooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "rooms": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "importantTraditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

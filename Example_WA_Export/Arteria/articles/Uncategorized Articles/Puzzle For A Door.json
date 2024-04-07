@@ -1,0 +1,123 @@
+{
+    "id": "e8f0dfbc-64ec-45e2-9271-2f56208a2c39",
+    "title": "Puzzle For A Door",
+    "slug": "puzzle-for-a-door-article",
+    "state": "private",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Article",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/puzzle-for-a-door-article",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2020-11-09 04:22:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "article",
+    "wordcount": 255,
+    "creationDate": {
+        "date": "2020-11-09 04:22:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Some of the best puzzles involve doing something physical to solve a riddle. Example from a campaign I took part in: On the wall there was a carving of seemingly nonsensical words. A skeleton next to the wall has a piece of paper on him that says something along the lines of \"A=O X=R\". Whenever the letter A is written, it must be replaced with O and so on, however the players must figure out what the other letters are.\n\nOnce it was completed, it was a cryptic riddle, \"Create that which is so fragile, to utter it's name would break it.\" The players think about it for a while (hopefully one of them is clever) and realize the answer is silence.\n\nYou then allow them to do as they wish, chances are they sit there for a while silent. Once they've been silent for a time tell them that they hear the crackle of fire on the torches in the room. Obviously, putting out all the lights in a dungeon is a dangerous thing to do, so you could have that trigger an ambush.\n\nThis is where the actual puzzle was finished, and the door opens, however I thought of another layer which could be added. When the torches are put out, glowing shapes are seen on the wall, and it is a slide puzzle type thing on the wall. Only once the tiles on the wall are in proper alignment does a keyhole form.",
+    "contentParsed": "Some of the best puzzles involve doing something physical to solve a riddle. Example from a campaign I took part in: On the wall there was a carving of seemingly nonsensical words. A skeleton next to the wall has a piece of paper on him that says something along the lines of &quot;A=O X=R&quot;. Whenever the letter A is written, it must be replaced with O and so on, however the players must figure out what the other letters are.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nOnce it was completed, it was a cryptic riddle, &quot;Create that which is so fragile, to utter it&#039;s name would break it.&quot; The players think about it for a while (hopefully one of them is clever) and realize the answer is silence.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nYou then allow them to do as they wish, chances are they sit there for a while silent. Once they&#039;ve been silent for a time tell them that they hear the crackle of fire on the torches in the room. Obviously, putting out all the lights in a dungeon is a dangerous thing to do, so you could have that trigger an ambush.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThis is where the actual puzzle was finished, and the door opens, however I thought of another layer which could be added. When the torches are put out, glowing shapes are seen on the wall, and it is a slide puzzle type thing on the wall. Only once the tiles on the wall are in proper alignment does a keyhole form.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

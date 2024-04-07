@@ -1,0 +1,305 @@
+{
+    "id": "3e8cc6fb-e3cb-4ad7-a6c5-6a5c85200fa8",
+    "title": "Followers of Mystra",
+    "slug": "followers-of-mystra-article",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Organization",
+    "icon": "fa-solid fa-shield-quartered",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/followers-of-mystra-article",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2019-09-08 23:59:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 1000,
+    "excerpt": null,
+    "template": "organization",
+    "wordcount": 28,
+    "creationDate": {
+        "date": "2019-09-02 06:02:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2019-09-08 23:59:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 95,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "cc7814eb-7a9c-489c-b197-a26a45e6bc97",
+        "title": "God's Tears",
+        "slug": "god27s-tears-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/god27s-tears-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": null,
+    "contentParsed": "",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "mythos": {
+            "title": "",
+            "position": "",
+            "content": "Mystra is the font of all wisdom. The source of all arcane energy. Which is the source of all prosperity and advancement.",
+            "contentParsed": "Mystra is the font of all wisdom. The source of all arcane energy. Which is the source of all prosperity and advancement."
+        },
+        "priesthood": {
+            "title": "",
+            "position": "",
+            "content": "Clerics, Paladins\r\nArcane",
+            "contentParsed": "Clerics, Paladins\nArcane"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "permeatedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manufactureditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manufacturedvehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "familymembers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "traditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signeddocuments": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizationranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherpeople": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "spells": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizationformations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contestedlocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedSpecies": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "languages": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "predecessors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "successors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "deities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "6e5c6d44-2fae-4da7-9205-1d98e7a94322",
+                    "title": "Mystra",
+                    "slug": "mystra-person",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/mystra-person",
+                    "relationshipType": "article",
+                    "type": "person"
+                }
+            ]
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

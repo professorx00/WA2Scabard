@@ -1,0 +1,254 @@
+{
+    "id": "ae00c3ac-b0f8-4439-95c6-7d3264eaf782",
+    "title": "Lurue",
+    "slug": "lurue-person",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Person",
+    "icon": "fa-solid fa-user-crown",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/lurue-person",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-08 23:57:22.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "person",
+    "wordcount": 339,
+    "creationDate": {
+        "date": "2021-02-08 23:57:22.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+        "title": "Mythology, Gods, Religion",
+        "slug": "gods-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/gods-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Lurue\nAliases \tLurae, Silverymoon, Yathaghera, the Divine Beast, Queen of Talking Beasts, the Unicorn, the Unicorn Queen\nAlignment \tChaotic Good\nDivine Rank \tDemigoddess\nPantheon \tFaerûn\nPortfolio \tIntelligent/Talking Animals\nDomains \tAnimal, Chaos, Good, Healing\nHome Plane \tGreat Wheel: Prime Material Plane (Faerûn)\nWorld Tree: House of Nature\nWorld Axis: Deep Wilds\nWorshippers \tDruids, Rangers, Bards, Travellers, Furries\nFavoured Weapon \tA Unicorn Horn (Shortspear)\n\nThe aforementioned faithful steed of Mielikki is a demigoddess unicorn called Lurue. Her \"Core\" counterpart is Valerian.\n\nOne big deviation is that Lurue is female, and can take an uber-hot humanoid form, complete with horn in the middle of her forehead, when not being ridden around by Mielikki. Therefore fulfilling Rule 63 and Rule 34 at the same time.\n\nShe is the daughter of Selûne, which makes her the half-sister of Chauntea and most of the other major deities at the top of the pantheon. Her father is believed to be Eachthighern: the lord of Horses (a half-unicorn, half-pegasus Archfey) though when confronted directly about this Lurue gets confused and lays no claim to any relation, though quite possibly because Eachthighern is not native to Toril and resides elsewhere.\n\nIn her own right, she is revered as the queen of intelligent animals and forms a duo with Nobanion over the rulership of such creatures, though the two aren't married, just close allies, though back in 2e she was considering building her own realm in the Beastlands to be closer to him.\n\nAmongst Elves, despite not really revering Mielikki in any meaningful way (due to having their own pantheon) Lurue is still highly regarded independently as Yathaghera who is the queen of pegasi as well.\n\nInterestingly, Clerics of Lurue all have their eyes turn deep blue or purple upon their initiation.\n\nAlso, the city of Silverymoon was named for her, after she and Mielikki rode into the original village and fell in love with an inn there, blessing the town which would later grow into a major city of the Northern Realms. ",
+    "contentParsed": "Lurue\nAliases \tLurae, Silverymoon, Yathaghera, the Divine Beast, Queen of Talking Beasts, the Unicorn, the Unicorn Queen\nAlignment \tChaotic Good\nDivine Rank \tDemigoddess\nPantheon \tFaerûn\nPortfolio \tIntelligent/Talking Animals\nDomains \tAnimal, Chaos, Good, Healing\nHome Plane \tGreat Wheel: Prime Material Plane (Faerûn)\nWorld Tree: House of Nature\nWorld Axis: Deep Wilds\nWorshippers \tDruids, Rangers, Bards, Travellers, Furries\nFavoured Weapon \tA Unicorn Horn (Shortspear)\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThe aforementioned faithful steed of Mielikki is a demigoddess unicorn called Lurue. Her &quot;Core&quot; counterpart is Valerian.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nOne big deviation is that Lurue is female, and can take an uber-hot humanoid form, complete with horn in the middle of her forehead, when not being ridden around by Mielikki. Therefore fulfilling Rule 63 and Rule 34 at the same time.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nShe is the daughter of Selûne, which makes her the half-sister of Chauntea and most of the other major deities at the top of the pantheon. Her father is believed to be Eachthighern: the lord of Horses (a half-unicorn, half-pegasus Archfey) though when confronted directly about this Lurue gets confused and lays no claim to any relation, though quite possibly because Eachthighern is not native to Toril and resides elsewhere.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nIn her own right, she is revered as the queen of intelligent animals and forms a duo with Nobanion over the rulership of such creatures, though the two aren&#039;t married, just close allies, though back in 2e she was considering building her own realm in the Beastlands to be closer to him.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nAmongst Elves, despite not really revering Mielikki in any meaningful way (due to having their own pantheon) Lurue is still highly regarded independently as Yathaghera who is the queen of pegasi as well.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nInterestingly, Clerics of Lurue all have their eyes turn deep blue or purple upon their initiation.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nAlso, the city of Silverymoon was named for her, after she and Mielikki rode into the original village and fell in love with an inn there, blessing the town which would later grow into a major city of the Northern Realms. ",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "families": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "firstHeldRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "heldItems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "createditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ruledLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "religions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "currentRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "pastRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentsauthored": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentssigned": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicalEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "proses": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedReports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

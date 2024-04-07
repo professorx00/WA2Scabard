@@ -1,0 +1,254 @@
+{
+    "id": "eabc3d2e-6459-4841-a59a-fe47891a0438",
+    "title": "Gwaeron Windstrom",
+    "slug": "gwaeron-windstrom-person",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Person",
+    "icon": "fa-solid fa-user-crown",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/gwaeron-windstrom-person",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-08 23:57:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "person",
+    "wordcount": 234,
+    "creationDate": {
+        "date": "2021-02-08 23:57:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+        "title": "Mythology, Gods, Religion",
+        "slug": "gods-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/gods-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Gwaeron Windstrom\nPaw print with a five-pointed star in its center\nAliases \tMaster Tracker, the Mouth of Mielikki, Tracker who Never Goes Astray\nAlignment \tNeutral Good\nDivine Rank \tDemigod\nPantheon \tFaerûn\nPortfolio \tTracking, Hunting\nDomains \t3E: Animal, Good, Knowledge, Plants, Travel\n5E: Knowledge, Nature\nHome Plane \tGreat Wheel: Prime Material Plane (Faerûn)\nWorld Tree: House of Nature\nWorld Axis: Deep Wilds\nWorshippers \tRangers, Druids, Troll Hunters\nFavoured Weapon \tFlameheart (Greatsword)\n\nThis guy started out as a mortal who was really good at tracking and was so good that he even managed to track down and slay several manifestations of the beast god, Malar. So Mielikki raised him up to a demigod.\n\nHis problem is that his portfolio is so freaking specific and not that much different from Mielikki's at all. He has no organised clergy away from the church of Mielikki, they even share the same holy places and observances. So people who meet a Cleric or Druid of Gwaeron Windstrom might not have actually realised that he was actually a god at all and merely some proxy or a herald. This means that he is in real danger of becoming forgotten about and just being absorbed into Mielikki.\n\nThis probably isn't a terrible fate for him, since at least he would be joining his own goddess rather than being reduced to nothingness by some enemy.\nShiallia",
+    "contentParsed": "Gwaeron Windstrom\nPaw print with a five-pointed star in its center\nAliases \tMaster Tracker, the Mouth of Mielikki, Tracker who Never Goes Astray\nAlignment \tNeutral Good\nDivine Rank \tDemigod\nPantheon \tFaerûn\nPortfolio \tTracking, Hunting\nDomains \t3E: Animal, Good, Knowledge, Plants, Travel\n5E: Knowledge, Nature\nHome Plane \tGreat Wheel: Prime Material Plane (Faerûn)\nWorld Tree: House of Nature\nWorld Axis: Deep Wilds\nWorshippers \tRangers, Druids, Troll Hunters\nFavoured Weapon \tFlameheart (Greatsword)\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThis guy started out as a mortal who was really good at tracking and was so good that he even managed to track down and slay several manifestations of the beast god, Malar. So Mielikki raised him up to a demigod.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nHis problem is that his portfolio is so freaking specific and not that much different from Mielikki&#039;s at all. He has no organised clergy away from the church of Mielikki, they even share the same holy places and observances. So people who meet a Cleric or Druid of Gwaeron Windstrom might not have actually realised that he was actually a god at all and merely some proxy or a herald. This means that he is in real danger of becoming forgotten about and just being absorbed into Mielikki.\n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nThis probably isn&#039;t a terrible fate for him, since at least he would be joining his own goddess rather than being reduced to nothingness by some enemy.\nShiallia",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "families": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "firstHeldRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "heldItems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "createditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ruledLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "religions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "currentRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "pastRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentsauthored": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentssigned": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicalEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "proses": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedReports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

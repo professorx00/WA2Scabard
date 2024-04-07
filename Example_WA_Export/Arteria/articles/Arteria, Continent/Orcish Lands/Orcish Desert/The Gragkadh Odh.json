@@ -1,0 +1,283 @@
+{
+    "id": "30c61e07-f49a-4729-b84b-d8e99564b0ae",
+    "title": "The Gragkadh Odh",
+    "slug": "the-gragkadh-odh-organization-1-1",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Organization",
+    "icon": "fa-solid fa-shield-quartered",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/the-gragkadh-odh-organization-1-1",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-18 06:19:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "organization",
+    "wordcount": 35,
+    "creationDate": {
+        "date": "2021-12-18 06:19:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2023-03-15 16:24:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "ace0e8d5-beac-4b3d-9819-9a2db77579de",
+        "title": "Orcish Desert",
+        "slug": "orcish-desert-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/orcish-desert-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "The Gragkadh Odh (Gragkahv ovh), also known as the Iron Tusk tribe, are the strongest clan within Chal Udoz, also known as the Orcish Oasis.  \n\nOther tribes: \nKroshnugh \nThe Rikh Nobug\n Bracculgagh\n",
+    "contentParsed": "The Gragkadh Odh (Gragkahv ovh), also known as the Iron Tusk tribe, are the strongest clan within Chal Udoz, also known as the Orcish Oasis. \n<br /><span class=\"line-spacer d-block\">&nbsp;</span>\nOther tribes: \nKroshnugh \nThe Rikh Nobug\n Bracculgagh\n",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "permeatedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "maps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manufactureditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manufacturedvehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "familymembers": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "divines": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "traditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signeddocuments": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizationranks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherpeople": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "spells": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizationformations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "contestedlocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedSpecies": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "languages": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "predecessors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "successors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "deities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "founders": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

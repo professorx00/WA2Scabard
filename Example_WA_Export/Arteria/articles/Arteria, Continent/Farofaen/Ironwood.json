@@ -1,0 +1,216 @@
+{
+    "id": "152a7e49-dd16-4568-a37c-a2c9e9b05975",
+    "title": "Ironwood",
+    "slug": "ironwood-species",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Species",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/ironwood-species",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-07 07:39:52.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 960,
+    "excerpt": null,
+    "template": "species",
+    "wordcount": 81,
+    "creationDate": {
+        "date": "2020-10-25 18:33:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-01 01:27:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 85,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "8ed425a9-55e9-4954-9735-60d2349add2c",
+        "title": "Farofaen",
+        "slug": "farofaen-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/farofaen-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952032,
+        "title": "Beautiful_Fantasy_Tree_Background_Wallpaper-1152x864.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/aa7cd60ce72a7da835cec894fe268388.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2021-02-07 04:33:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Ironwood.. A particularly dense wood, akin to working with Iron, while being lighter than the metal. These trees require a practiced hand to work effectively. But in the hands of a skilled artisan may create some very fine objects. The logs, and the grain contains streaks of silver, it's most striking visible feature.\r\nHarvested for thousands of years by the foresters in and around Farofaen, the species has been in decline of late, and is becoming difficult to find.",
+    "contentParsed": "Ironwood.. A particularly dense wood, akin to working with Iron, while being lighter than the metal. These trees require a practiced hand to work effectively. But in the hands of a skilled artisan may create some very fine objects. The logs, and the grain contains streaks of silver, it&#039;s most striking visible feature.\nHarvested for thousands of years by the foresters in and around Farofaen, the species has been in decline of late, and is becoming difficult to find.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        },
+        "conservation": {
+            "title": "",
+            "position": "",
+            "content": "Threatened",
+            "contentParsed": "Threatened"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "cover": {
+            "title": "",
+            "position": "sidebar",
+            "type": "singular",
+            "items": {
+                "id": 1952032,
+                "title": "Beautiful_Fantasy_Tree_Background_Wallpaper-1152x864.jpg",
+                "type": "image",
+                "relationshipType": "",
+                "state": "public"
+            }
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedHistories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "parents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "materials": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection",
+            "items": [
+                {
+                    "id": "e88be979-87a4-42da-97c7-5060c239750d",
+                    "title": "Farofaen",
+                    "slug": "farofaen-location",
+                    "url": "http://www.worldanvil.com/w/arteria-adorath/a/farofaen-location",
+                    "relationshipType": "article",
+                    "type": "location"
+                }
+            ]
+        },
+        "conditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedTechnologies": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "id": "d28361f0-ac40-43c6-bc78-f820d55281c0",
+    "title": "Fountain solution ideas",
+    "slug": "fountain-solution-ideas-plot",
+    "state": "public",
+    "isWip": true,
+    "isDraft": true,
+    "entityClass": "Plot",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/fountain-solution-ideas-plot",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-11-03 22:57:37.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "plot",
+    "wordcount": 77,
+    "creationDate": {
+        "date": "2021-11-03 22:54:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": null,
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "6dff6f6f-9c50-454b-8272-78d7360066c1",
+        "title": "Moonwells",
+        "slug": "moonwells-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/moonwells-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "\"the first shall be last and the last shall be first\"\r\nfirst to die= last rune, last to die = first rune\r\n\r\nmonths of the year\r\n\"as arteria travels around the sun..\"\r\nfirst letter = name of tree\r\n\r\nstatues w/ cups\r\nfill cups w/ water from the well\r\n\r\nstatue of oakenheart surrounded by flammable material,\r\nmust burn the material\r\n[br]\r\n[br]sacrifice blood onto a statue, maybe a wounded/dead/dieing AA\r\n[br]",
+    "contentParsed": "&quot;the first shall be last and the last shall be first&quot;\nfirst to die= last rune, last to die = first rune\n<span class=\"line-spacer d-block\">&nbsp;</span>\nmonths of the year\n&quot;as arteria travels around the sun..&quot;\nfirst letter = name of tree\n<span class=\"line-spacer d-block\">&nbsp;</span>\nstatues w/ cups\nfill cups w/ water from the well\n<span class=\"line-spacer d-block\">&nbsp;</span>\nstatue of oakenheart surrounded by flammable material,\nmust burn the material\n<br>\n<br>sacrifice blood onto a statue, maybe a wounded/dead/dieing AA\n<br>",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "children": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "reports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ggmnpcs": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ggmmonsters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ggmmaps": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedpeople": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedlocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "campaignplots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

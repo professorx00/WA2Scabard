@@ -1,0 +1,173 @@
+{
+    "id": "28b56a67-ab68-442d-8bf1-2c7fe0a649d7",
+    "title": "Tharizdun",
+    "slug": "tharizdun-myth",
+    "state": "private",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Myth",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/tharizdun-myth",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2021-12-30 23:33:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "myth",
+    "wordcount": 262,
+    "creationDate": {
+        "date": "2021-12-30 23:33:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2023-03-15 16:25:06.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "d73b8057-14e9-4c03-96e4-70a93c388d5f",
+        "title": "Mythology, Gods, Religion",
+        "slug": "gods-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/gods-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Tharizdun's original portfolio was god of doorways and portals. He created the Astral Dreadnoughts (Titans that guard astral portals) and was the god who slew the Guardian of the Living Gate and entered the Far Realm and took the Shard of Evil. His actions created both the first Elder Evils and the first demons.\nKnowing his obsession with doorways, the other gods used this to lure him into the Demiplane of Imprisonment and trap him there. However, as the trap was sprung, Tharizdun lashed out and three great \"chunks\" were cut from him.\nThe first represented his deific nature and fled to take refuge amongst a pantheon of outcast gods -- the Drow pantheon. This is Ghaunadaur.\nThe second represented his Elder Evil nature and fled to the Elemental Planes. Gygax named this being Vilp-akf'cho Rentaq, and he imbued power from the shard into a number of beings known as the evil Archomentals, or the Princes of Elemental Evil.\nThe third represented his role as the father of demons and fled to the newly created Abyss. There in the Abyss was the \"wound\" created when he plunged the shard into the elemental chaos and created the Abyss. This wound had a feral sentience, and the third part of Tharizdun inhabited it and it became Juiblex, the Faceless Lord.\nAs a cool side note, when the shard broke open and the thirteen Obyriths were set free, one leaped into the form of a Primordial as it was being transformed into a Demon Lord. Thus was born Demogorgon -- half demon, half obyrith.",
+    "contentParsed": "Tharizdun&#039;s original portfolio was god of doorways and portals. He created the Astral Dreadnoughts (Titans that guard astral portals) and was the god who slew the Guardian of the Living Gate and entered the Far Realm and took the Shard of Evil. His actions created both the first Elder Evils and the first demons.\nKnowing his obsession with doorways, the other gods used this to lure him into the Demiplane of Imprisonment and trap him there. However, as the trap was sprung, Tharizdun lashed out and three great &quot;chunks&quot; were cut from him.\nThe first represented his deific nature and fled to take refuge amongst a pantheon of outcast gods -- the Drow pantheon. This is Ghaunadaur.\nThe second represented his Elder Evil nature and fled to the Elemental Planes. Gygax named this being Vilp-akf&#039;cho Rentaq, and he imbued power from the shard into a number of beings known as the evil Archomentals, or the Princes of Elemental Evil.\nThe third represented his role as the father of demons and fled to the newly created Abyss. There in the Abyss was the &quot;wound&quot; created when he plunged the shard into the elemental chaos and created the Abyss. This wound had a feral sentience, and the third part of Tharizdun inhabited it and it became Juiblex, the Faceless Lord.\nAs a cool side note, when the shard broke open and the thirteen Obyriths were set free, one leaped into the form of a Primordial as it was being transformed into a Demon Lord. Thus was born Demogorgon -- half demon, half obyrith.",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "species": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "people": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "items": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

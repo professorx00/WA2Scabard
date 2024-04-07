@@ -1,0 +1,277 @@
+{
+    "id": "4b554cfe-0c1c-404f-b16d-92687501366a",
+    "title": "Lara",
+    "slug": "lara-person",
+    "state": "public",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Person",
+    "icon": "fa-solid fa-user-crown",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/lara-person",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "",
+    "updateDate": {
+        "date": "2023-09-20 22:57:09.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": null,
+    "excerpt": null,
+    "template": "person",
+    "wordcount": 268,
+    "creationDate": {
+        "date": "2023-09-20 22:41:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2023-09-20 22:41:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 18,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "50bbf4cb-d03b-4c84-9812-f9f97d70ea76",
+        "title": "Triple A",
+        "slug": "triple-a-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/triple-a-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "portrait": {
+        "id": 4896274,
+        "title": "Lara1",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/bbb1f9dc3cc78c8f0d943377ebc3f91c.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2023-09-20 22:43:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Twilight Cleric\r\nFounding Member and \"CEO\" of Triple A\r\n\r\nLara and her twin sister Nara grew up with their mother, Adara Aevenstar, homeless on the streets of Wreecaster. Adara was an aevendrow that left the hidden city in her youth and because of the cities magical enchantments was unable to return. She found life outside hard for a drow (even a non lolth worshiping one thay didnt come from the underdark). Hence the homeless living in a big city... \r\n\r\nLara and Nara never met their father, tho they are half elves and have always assumed their father was a human.\r\n\r\nWhen the sisters were 13 years old their mother suddenly died... Causes unknown. Some combination of circumstances around poverty. Preventable illness, crime...Something that was preventable. \r\n\r\nThe sisters spent the next 3 years living together on the streets and developed the shared dream of becoming great adventurers and escaping poverty. Nara began slipping more and more into the criminal underworld (becoming a rogue), and Lara decided to leave her when they were 16 and became an acolyte at a temple of tymora to become a cleric... this is when Nara gave her the nickname \"the dawn shield\" as a joke, Lara in turn named her sister \"the night razor\" and they both actually liked the insulting names enough to keep the...\r\nLara spent about 4 or 5 years at the temple and slowly drifted farther and farther away from her sister. Eventually she took her first job outside of the city with a ragtag group of adventurers and has helped establish them as the most respected and premier adventuring party in Arteria...",
+    "contentParsed": "Twilight Cleric\nFounding Member and &quot;CEO&quot; of Triple A\n<span class=\"line-spacer d-block\">&nbsp;</span>\nLara and her twin sister Nara grew up with their mother, Adara Aevenstar, homeless on the streets of Wreecaster. Adara was an aevendrow that left the hidden city in her youth and because of the cities magical enchantments was unable to return. She found life outside hard for a drow (even a non lolth worshiping one thay didnt come from the underdark). Hence the homeless living in a big city... \n<span class=\"line-spacer d-block\">&nbsp;</span>\nLara and Nara never met their father, tho they are half elves and have always assumed their father was a human.\n<span class=\"line-spacer d-block\">&nbsp;</span>\nWhen the sisters were 13 years old their mother suddenly died... Causes unknown. Some combination of circumstances around poverty. Preventable illness, crime...Something that was preventable. \n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe sisters spent the next 3 years living together on the streets and developed the shared dream of becoming great adventurers and escaping poverty. Nara began slipping more and more into the criminal underworld (becoming a rogue), and Lara decided to leave her when they were 16 and became an acolyte at a temple of tymora to become a cleric... this is when Nara gave her the nickname &quot;the dawn shield&quot; as a joke, Lara in turn named her sister &quot;the night razor&quot; and they both actually liked the insulting names enough to keep the...\nLara spent about 4 or 5 years at the temple and slowly drifted farther and farther away from her sister. Eventually she took her first job outside of the city with a ragtag group of adventurers and has helped establish them as the most respected and premier adventuring party in Arteria...",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "locations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "families": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "organizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "vehicles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "firstHeldRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "heldItems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "createditems": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "ruledLocations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "religions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "professions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "myths": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "belligerents": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "currentRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "pastRanks": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "plots": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentsauthored": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentssigned": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "historicalEntries": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "conditions": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "otherethnicities": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "proses": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "relatedReports": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "foundedOrganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "c91379f0-328d-466a-bf09-c719601a1823",
+    "title": "Spells",
+    "slug": "spells-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/c/spells-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": true,
+    "isCollapsed": false,
+    "position": 950,
+    "creationDate": {
+        "date": "2023-05-04 17:56:27.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "views": 10,
+    "parent": null,
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "a02008c6-cee0-4892-8712-18510915cb3d",
+            "title": "Triple A's Inconspicuous Bivouac",
+            "slug": "triple-a-s-inconspicuous-bivouac-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Article",
+            "icon": "fa-solid fa-file",
+            "url": "http://www.worldanvil.com/w/arteria-adorath/a/triple-a-s-inconspicuous-bivouac-article",
+            "subscribergroups": [],
+            "folderId": "c91379f0-328d-466a-bf09-c719601a1823",
+            "tags": null,
+            "updateDate": {
+                "date": "2023-03-23 19:36:49.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        }
+    ],
+    "custom1": null,
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\",\"toc\"],\"catCol3\":[\"custom3\",\"articleBlocks\"],\"catCol4\":[\"custom4\",\"maps\",\"timelines\"],\"catCol5\":[\"custom5\"]}"
+}

@@ -1,0 +1,148 @@
+{
+    "id": "3540ceca-e166-461b-8170-3a159bd63723",
+    "title": "A prophesy",
+    "slug": "a-prophesy-document",
+    "state": "private",
+    "isWip": true,
+    "isDraft": false,
+    "entityClass": "Document",
+    "icon": "fa-solid fa-file",
+    "url": "http://www.worldanvil.com/w/arteria-adorath/a/a-prophesy-document",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2021-02-02 17:10:54.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "position": 1000,
+    "excerpt": null,
+    "template": "document",
+    "wordcount": 36,
+    "creationDate": {
+        "date": "2020-11-27 02:25:33.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publicationDate": {
+        "date": "2020-11-29 20:10:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "cssStyles": null,
+    "passcode": null,
+    "author": {
+        "id": "8059089b-cf59-45b1-b328-a9efcd36f47b",
+        "title": "adorath",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "http://www.worldanvil.com/author/adorath",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "20b17e5b-fa32-46ee-9168-5aef35376021",
+        "title": "Arteria, Continent",
+        "slug": "arteria-category",
+        "url": "http://www.worldanvil.com/w/arteria-adorath/c/arteria-category"
+    },
+    "world": {
+        "id": "238a9dbc-1c3f-4f72-838f-336a90f6c31c",
+        "title": "Arteria",
+        "slug": "arteria-adorath",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "http://www.worldanvil.com/w/arteria-adorath",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2024-03-29 03:20:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "cover": {
+        "id": 1952401,
+        "title": "Arteria world cover",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/6c977e75d750e89b02a0040abf994163.jpg",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": "",
+        "updateDate": {
+            "date": "2021-02-07 07:25:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "content": "Deep in the mountains\r\nby dark of night\r\nblood of the fountains\r\nFilled with spite\r\nUpon Cloud's Rest\r\nwardens must be assured\r\nThe greatest Test\r\nFor the future to be secured",
+    "contentParsed": "Deep in the mountains\nby dark of night\nblood of the fountains\nFilled with spite\nUpon Cloud&#039;s Rest\nwardens must be assured\nThe greatest Test\nFor the future to be secured",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "contentParsed": "1"
+        },
+        "folderId": {
+            "title": "",
+            "position": "",
+            "content": "-1",
+            "contentParsed": "-1"
+        }
+    },
+    "relations": {
+        "childrenArticles": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "memories": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "manuscripts": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "documentauthors": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatorycharacters": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        },
+        "signatoryorganizations": {
+            "title": "",
+            "position": "sidebar",
+            "type": "collection"
+        }
+    }
+}
